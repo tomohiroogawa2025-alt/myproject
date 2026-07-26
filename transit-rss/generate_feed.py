@@ -148,3 +148,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+# Trigger-safe source marker: changing this file starts the workflow, while feed.xml updates do not.
