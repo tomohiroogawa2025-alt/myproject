@@ -1,0 +1,38 @@
+name: Update TOKK RSS
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tokk-rss/generate_feed.py"
+      - "tokk-rss/requirements.txt"
+      - ".github/workflows/tokk-rss.yml"
+  schedule:
+    # Once daily at 22:57 UTC = 07:57 JST
+    - cron: "57 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r tokk-rss/requirements.txt
+      - run: python tokk-rss/generate_feed.py
+      - name: Commit feed when changed
+        run: |
+          if git diff --quiet -- tokk-rss/feed.xml; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tokk-rss/feed.xml
+          git commit -m "Update TOKK RSS"
+          git push
