@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TOKK関西 最新記事（unofficial）</title>
+    <link>https://tokk-kansai.jp/</link>
+    <description>TOKK関西トップページの「最新記事」欄から生成する非公式RSSです。自動更新時に記事が追加されます。</description>
+    <language>ja</language>
+  </channel>
+</rss>
