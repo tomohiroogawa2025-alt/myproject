@@ -1,6 +1,12 @@
 name: Update TRANSIT RSS
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "transit-rss/generate_feed.py"
+      - "transit-rss/requirements.txt"
+      - ".github/workflows/transit-rss.yml"
   schedule:
     # Every 3 hours. GitHub Actions cron uses UTC.
     - cron: "17 */3 * * *"
