@@ -8,8 +8,8 @@ on:
       - "transit-rss/requirements.txt"
       - ".github/workflows/transit-rss.yml"
   schedule:
-    # Every 3 hours. GitHub Actions cron uses UTC.
-    - cron: "17 */3 * * *"
+    # Once a day at 22:17 UTC = 07:17 JST
+    - cron: "17 22 * * *"
   workflow_dispatch:
 
 permissions:
