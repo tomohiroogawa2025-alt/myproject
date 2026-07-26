@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NiEW 最新ニュース（unofficial）</title>
+    <link>https://niewmedia.com/news/</link>
+    <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
+    <language>ja</language>
+    <item>
+      <title>日本・韓国・香港の俳優が参加、市原佐都子／Qの舞台『キティ』国内5都市で上演</title>
+      <link>https://niewmedia.com/news/2607kitty/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2607kitty/</guid>
+      <pubDate>Sat, 25 Jul 2026 10:30:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
