@@ -3,9 +3,9 @@
   <channel>
     <title>TRANSIT.jp 最新記事（unofficial）</title>
     <link>https://transit.jp/</link>
-    <description>TRANSIT.jp のトップページ「NEW ARTICLES」から生成した非公式RSSです。</description>
+    <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 06:23:26 +0000</lastBuildDate>
     <item>
       <title>旅の記憶とスパイス料理#2 アゼルバイジャンのシェチェルブラ 林周作</title>
       <link>https://transit.jp/article/azerbaijan/spicememory-2</link>
@@ -19,40 +19,16 @@
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>〈ヤマハ発動機 コミュニケーションプラザ〉から広がるOne Day Trip 清水みさとがヤマハの街・磐田で出合ったもの。</title>
-      <link>https://transit.jp/sponsored/yamaha_motor_iwata_misatoshimizu/</link>
-      <guid isPermaLink="true">https://transit.jp/sponsored/yamaha_motor_iwata_misatoshimizu/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>連載｜今週の編集部日誌 スペイン・バスクのフットボールがある週末・延長戦</title>
-      <link>https://transit.jp/regular/spain/20260724_editors_diary_kawaharada</link>
-      <guid isPermaLink="true">https://transit.jp/regular/spain/20260724_editors_diary_kawaharada</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Podcast｜旅と世界のはなし vol.43 「どうしてスペインに恋してしまうんだろう、編集部の即席バルで話したこと」</title>
-      <link>https://transit.jp/regular/spain/podcast_vol43_fallingspain</link>
-      <guid isPermaLink="true">https://transit.jp/regular/spain/podcast_vol43_fallingspain</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Promotions いいちこパーソンに広がる世界の風景 vol.8 スペイン</title>
-      <link>https://transit.jp/sponsored/iichiko-person_vol8/</link>
-      <guid isPermaLink="true">https://transit.jp/sponsored/iichiko-person_vol8/</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美食の国・スペインの郷土料理案内！ 各地の名物料理をめぐる旅へ。</title>
+      <title>美食の国・スペインの郷土料理案内！ 各地の名物料理をめぐる旅へ。バスク、ガリシア、マドリード、アンダルシア…and more!</title>
       <link>https://transit.jp/article/spain/localcuisine</link>
       <guid isPermaLink="true">https://transit.jp/article/spain/localcuisine</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>連載｜上田優紀と世界の果ての動物たち vol.5 ネパール ヒマラヤ山脈 「ヒマラヤに暮らすユキヒョウ」</title>
-      <link>https://transit.jp/regular/nepal/yukiueda_animal_snowleopard_vol5</link>
-      <guid isPermaLink="true">https://transit.jp/regular/nepal/yukiueda_animal_snowleopard_vol5</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <title>スペインサッカーはなぜ強い? W杯開催中に知りたい！ 熱狂のスペインサッカー史</title>
+      <link>https://transit.jp/article/spain/football_history</link>
+      <guid isPermaLink="true">https://transit.jp/article/spain/football_history</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
