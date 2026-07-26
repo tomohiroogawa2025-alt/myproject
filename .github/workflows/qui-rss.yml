@@ -33,7 +33,7 @@ jobs:
       - run: python qui-rss/generate_feed.py
       - name: Commit feed when changed
         run: |
-          if git diff --quiet -- qui-rss/feed.xml; then
+          if [ -z "$(git status --porcelain -- qui-rss/feed.xml)" ]; then
             echo "No feed changes"
             exit 0
           fi
