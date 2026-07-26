@@ -16,7 +16,13 @@ from bs4 import BeautifulSoup, Tag
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-LIST_URLS = ["https://qui.tokyo/media", "https://qui.tokyo/"]
+# QUI sometimes returns 502 for /media from automated clients. Try several public
+# listing pages, starting with the simpler category page.
+LIST_URLS = [
+    "https://qui.tokyo/category/news",
+    "https://qui.tokyo/media",
+    "https://qui.tokyo/",
+]
 SITE_URL = "https://qui.tokyo/"
 OUTPUT = Path(__file__).with_name("feed.xml")
 USER_AGENT = (
@@ -30,7 +36,7 @@ DATE_PATTERNS = [
 ]
 ARTICLE_PATHS = (
     "/news/", "/fashion/", "/film/", "/music/", "/art/", "/beauty/",
-    "/life/", "/shopping/", "/feature/", "/media/",
+    "/life/", "/shopping/", "/feature/",
 )
 
 
@@ -58,8 +64,9 @@ def parse_date(text: str) -> datetime | None:
 
 
 def nearby_date(node: Tag) -> datetime | None:
+    # QUI cards can wrap the link quite deeply, so walk further up than before.
     cur: Tag | None = node
-    for _ in range(7):
+    for _ in range(14):
         if cur is None:
             break
         dt = parse_date(cur.get_text(" ", strip=True))
@@ -81,16 +88,21 @@ def anchor_title(a: Tag) -> str:
         t = clean(img.get("alt", ""))
         if len(t) >= 5:
             return t
-    return clean(a.get_text(" ", strip=True))
+    t = clean(a.get_text(" ", strip=True))
+    # Strip category/date noise that can be included in card links.
+    for pat in DATE_PATTERNS:
+        t = pat.sub("", t)
+    t = re.sub(r"^(NEWS|FASHION|FILM|MUSIC|ART/DESIGN|BEAUTY|LIFE/STYLE|SHOPPING|FEATURE)\s+", "", t, flags=re.I)
+    return clean(t)
 
 
 def session() -> requests.Session:
     s = requests.Session()
     retry = Retry(
-        total=5,
-        connect=5,
-        read=5,
-        status=5,
+        total=6,
+        connect=6,
+        read=6,
+        status=6,
         backoff_factor=2,
         status_forcelist=(429, 500, 502, 503, 504),
         allowed_methods=frozenset(["GET"]),
@@ -106,23 +118,27 @@ def session() -> requests.Session:
     return s
 
 
-def fetch_html() -> str:
+def fetch_html_candidates() -> list[tuple[str, str]]:
     s = session()
+    results: list[tuple[str, str]] = []
     errors: list[str] = []
     for url in LIST_URLS:
         try:
             r = s.get(url, timeout=45)
             if r.status_code == 200 and len(r.text) > 1000:
-                return r.text
-            errors.append(f"{url}: HTTP {r.status_code}, {len(r.text)} bytes")
+                results.append((url, r.text))
+            else:
+                errors.append(f"{url}: HTTP {r.status_code}, {len(r.text)} bytes")
         except Exception as e:
             errors.append(f"{url}: {e}")
         time.sleep(2)
-    raise RuntimeError("QUI fetch failed: " + " | ".join(errors))
+    if not results:
+        raise RuntimeError("QUI fetch failed: " + " | ".join(errors))
+    return results
 
 
-def fetch_articles() -> list[Article]:
-    soup = BeautifulSoup(fetch_html(), "html.parser")
+def extract_articles(page_url: str, page_html: str) -> list[Article]:
+    soup = BeautifulSoup(page_html, "html.parser")
     found: dict[str, Article] = {}
 
     for a in soup.find_all("a", href=True):
@@ -147,8 +163,21 @@ def fetch_articles() -> list[Article]:
             found[url] = candidate
 
     articles = sorted(found.values(), key=lambda x: (x.published, x.url), reverse=True)
+    print(f"{page_url}: extracted {len(articles)} articles")
+    return articles
+
+
+def fetch_articles() -> list[Article]:
+    merged: dict[str, Article] = {}
+    for page_url, page_html in fetch_html_candidates():
+        for article in extract_articles(page_url, page_html):
+            prev = merged.get(article.url)
+            if prev is None or len(article.title) < len(prev.title):
+                merged[article.url] = article
+
+    articles = sorted(merged.values(), key=lambda x: (x.published, x.url), reverse=True)
     if not articles:
-        raise RuntimeError("No dated QUI media articles found in fetched HTML")
+        raise RuntimeError("Fetched QUI pages successfully, but no dated article cards were found")
     return articles[:50]
 
 
@@ -189,7 +218,12 @@ def main() -> int:
         print(f"Newest: {articles[0].published.date()} {articles[0].title}")
         return 0
     except Exception as e:
-        print(f"ERROR: {e}", file=sys.stderr)
+        # A temporary 5xx from QUI should not turn the scheduled workflow red or
+        # destroy the last good feed. Keep the existing feed and try again tomorrow.
+        print(f"WARNING: {e}", file=sys.stderr)
+        if OUTPUT.exists() and OUTPUT.stat().st_size > 100:
+            print("Keeping previous feed.xml")
+            return 0
         return 1
 
 
