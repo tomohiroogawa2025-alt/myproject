@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>goofy.jp Instagram（unofficial）</title>
+    <link>https://www.instagram.com/goofy.jp/</link>
+    <description>@goofy.jp の公開Instagram投稿を取得する非公式RSSです。Instagram側の取得制限により、一時的に更新が遅れる場合があります。</description>
+    <language>ja</language>
+    <item>
+      <title>@goofy.jp Instagram</title>
+      <link>https://www.instagram.com/goofy.jp/</link>
+      <guid isPermaLink="true">https://www.instagram.com/goofy.jp/</guid>
+      <description>初回取得待ち。次回の自動取得成功時に公開投稿一覧へ更新されます。</description>
+    </item>
+  </channel>
+</rss>
