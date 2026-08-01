@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 23:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:14:24 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜ドキュメンタリー映画『9月のアル・ラシード通り』7/31公開 ガザで生きる、一人ひとりの物語</title>
+      <link>https://transit.jp/article/palestine/editorspick_movie_gaza_202608</link>
+      <guid isPermaLink="true">https://transit.jp/article/palestine/editorspick_movie_gaza_202608</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>旅の記憶とスパイス料理#3 インドのカリミリフィッシュティッカ 山登伸介（シバカリ―ワラ）</title>
       <link>https://transit.jp/article/india/spicememory-3</link>
@@ -23,6 +29,12 @@
       <link>https://transit.jp/article/laos/spice-travelmemory-1</link>
       <guid isPermaLink="true">https://transit.jp/article/laos/spice-travelmemory-1</guid>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>スペインサッカーはなぜ強い? W杯とあわせて知りたい！ スペイン代表「ラ・ロハ」と「ラ・リーガ」入門</title>
+      <link>https://transit.jp/article/spain/football_laliga_laroja</link>
+      <guid isPermaLink="true">https://transit.jp/article/spain/football_laliga_laroja</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
