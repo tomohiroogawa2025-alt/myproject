@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 23:28:31 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜人類学者と陶芸家が集めた、アフリカの手仕事。 展示「ふたりのアフリカ、手仕事の宇宙」が世田谷美術館へ</title>
+      <link>https://transit.jp/article/tokyo/editorspick_memories-of-west-africa</link>
+      <guid isPermaLink="true">https://transit.jp/article/tokyo/editorspick_memories-of-west-africa</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Editor&#x27;s Pick｜ドキュメンタリー映画『9月のアル・ラシード通り』7/31公開 ガザで生きる、一人ひとりの物語</title>
       <link>https://transit.jp/article/palestine/editorspick_movie_gaza_202608</link>
@@ -17,12 +23,6 @@
       <link>https://transit.jp/article/india/spicememory-3</link>
       <guid isPermaLink="true">https://transit.jp/article/india/spicememory-3</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>スペインサッカーはなぜ強い? W杯とあわせて知りたい！ スペイン代表「ラ・ロハ」と「ラ・リーガ」入門</title>
-      <link>https://transit.jp/article/spain/football_laliga_laroja</link>
-      <guid isPermaLink="true">https://transit.jp/article/spain/football_laliga_laroja</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
