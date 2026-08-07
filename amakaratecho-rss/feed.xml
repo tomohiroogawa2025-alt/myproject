@@ -5,7 +5,13 @@
     <link>https://www.amakaratecho.jp/</link>
     <description>あまから手帖 Online の「新着記事」欄から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 23:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:35:13 +0000</lastBuildDate>
+    <item>
+      <title>おでかけ 鍾乳洞がある喫茶『ホラ！あな』。名物はジビエ料理</title>
+      <link>https://www.amakaratecho.jp/info/odekake/1354008_15147.html</link>
+      <guid isPermaLink="true">https://www.amakaratecho.jp/info/odekake/1354008_15147.html</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>おしごとランチ、おでかけランチ 金土日限定で復活！大阪・うめきた『Leone 吉川健太郎』のビリヤニランチ</title>
       <link>https://www.amakaratecho.jp/shop/lunch/1353863_16147.html</link>
@@ -47,12 +53,6 @@
       <link>https://www.amakaratecho.jp/recipe/gasbi/1353856_15152.html</link>
       <guid isPermaLink="true">https://www.amakaratecho.jp/recipe/gasbi/1353856_15152.html</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>おしごとランチ、おでかけランチ 意外な場所で見つけた。“前菜盛り”に心躍る、阿波座『compasii』の日替わりランチ</title>
-      <link>https://www.amakaratecho.jp/shop/lunch/1353807_16147.html</link>
-      <guid isPermaLink="true">https://www.amakaratecho.jp/shop/lunch/1353807_16147.html</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
