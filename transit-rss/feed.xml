@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:53:26 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜ メキシコ、スイス、福岡、神戸…途上を彷徨う写真。 佐内正史 写真展「佐内さん」ふげん社で9/6まで</title>
+      <link>https://transit.jp/article/japan/editors-pick_sanaisan</link>
+      <guid isPermaLink="true">https://transit.jp/article/japan/editors-pick_sanaisan</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Editor&#x27;s Pick｜ ベトナム茶の写真展「Echoes of Life｜Tea from Vietnam いのちのバトン」 ベトナム人写真家と〈Tinh〉が訪ねた、山の茶文化。 東京、ハノイ、ホーチミンの3都市を巡回</title>
       <link>https://transit.jp/article/vietnam/editorspick_vietnam_tea_exhibition</link>
@@ -23,12 +29,6 @@
       <link>https://transit.jp/article/tokyo/editorspick_memories-of-west-africa</link>
       <guid isPermaLink="true">https://transit.jp/article/tokyo/editorspick_memories-of-west-africa</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Editor&#x27;s Pick｜ドキュメンタリー映画『9月のアル・ラシード通り』7/31公開 ガザで生きる、一人ひとりの物語</title>
-      <link>https://transit.jp/article/palestine/editorspick_movie_gaza_202608</link>
-      <guid isPermaLink="true">https://transit.jp/article/palestine/editorspick_movie_gaza_202608</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
