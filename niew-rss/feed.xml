@@ -5,12 +5,24 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:01:46 +0000</lastBuildDate>
     <item>
       <title>堀田真由＆高橋一生がアニメ映画『ghost／夜の果て』の声優に決定、特報映像も公開</title>
       <link>https://niewmedia.com/news/2608ghost/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608ghost/</guid>
       <pubDate>Thu, 11 Feb 2027 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>黒木華主演、加藤拓也監督の映画『日曜のあと』公開日決定。特報＆ビジュアルも解禁</title>
+      <link>https://niewmedia.com/news/2608nichiyonoato/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608nichiyonoato/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>メインコンテンツまでスキップ</title>
+      <link>https://niewmedia.com/news/#main-content</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>川崎の無料カルチャーマーケットに13組出店。トリプルファイヤー吉田靖直、BOYなど</title>
@@ -47,6 +59,18 @@
       <link>https://niewmedia.com/news/2608gm/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608gm/</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『SUMMER SONIC 2026』日割りラインナップが公開 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2603summersonic02/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2603summersonic02/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『サマソニ2026』第3弾でマカロニえんぴつ、女王蜂、.ENDRECHERI.ら11組を発表</title>
+      <link>https://niewmedia.com/news/2603summer-sonic03/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2603summer-sonic03/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>『サマソニ』第1弾でTHE STROKES、L’Arc-en-Ciel、JAMIROQUAIら30組 NiEW編集部</title>
@@ -109,12 +133,6 @@
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>映画『ゴースト・オブ・ウエノ』第2弾ビジュアル＆予告編公開、スターダスト☆レビューが主題歌担当 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2606ghostofueno/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2606ghostofueno/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>舞台芸術のアクセシビリティを実践で学ぶ『STAGE for ALL 2026』開催、受講者募集中</title>
       <link>https://niewmedia.com/news/2608stage-for-all/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608stage-for-all/</guid>
@@ -151,12 +169,6 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>メインコンテンツまでスキップ</title>
-      <link>https://niewmedia.com/news/#main-content</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>大石恵美×岡田利規、蓮見翔×野田秀樹の対談掲載。『新潮』9月号は演劇を特集</title>
       <link>https://niewmedia.com/news/2608shincho/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608shincho/</guid>
@@ -167,12 +179,6 @@
       <link>https://niewmedia.com/news/2608avengers_nclm/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608avengers_nclm/</guid>
       <pubDate>Thu, 06 Aug 2026 21:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creepy Nutsがアリーナツアーを開催！ 2027年2月から全国8都市を巡る</title>
-      <link>https://niewmedia.com/news/2608creepy-nuts/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608creepy-nuts/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
