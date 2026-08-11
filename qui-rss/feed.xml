@@ -5,24 +5,102 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:55:27 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PLEATS PLEASE ISSEY MIYAKEの2026-27年秋冬シーズンから8月新アイテムが発売</title>
+      <link>https://qui.tokyo/news/2608-pleats-please-issey-miyake-august</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2608-pleats-please-issey-miyake-august</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IM MEN、KURA展「KASURI」がISSEY MIYAKE KYOTOで開催中</title>
+      <link>https://qui.tokyo/news/2608-im-men-kura-kasuri</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2608-im-men-kura-kasuri</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HUNTER、野外フェスやサマーシーズンに向け高機能アイテムをラインナップ</title>
+      <link>https://qui.tokyo/news/2608-hunter</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2608-hunter</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldwin Shinsaibashiが7/31（金）心斎橋PARCOにオープン、限定スーベニアも展開</title>
+      <link>https://qui.tokyo/news/2608-goldwin-shinsaibashi</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2608-goldwin-shinsaibashi</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection YUTASETOGAWA 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/yutasetogawa-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/yutasetogawa-2027ss-collection</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection Vivienne Westwood RED+MAN 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/vivienne-westwood-redman-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/vivienne-westwood-redman-2026aw-collection</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection LES SIX 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/les-six-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/les-six-2027ss-collection-runway</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection COYSEIO 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/coyseio-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/coyseio-2026aw-collection</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection BOWTE 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/bowte-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/bowte-2026aw-collection</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Saturdays NYCがL.L.Beanとのコラボレーションコレクションを発売</title>
@@ -61,79 +139,25 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ReStyle30周年｜観客の視線を奪ったBALLET TheNewClassic 2026の衣裳に込めた想い</title>
+      <title>ReStyle30周年｜観客の視線を奪ったBALLET TheNewClassic 2026の衣裳に込めた想い Aug 10, 2026</title>
       <link>https://qui.tokyo/fashion/restyle30th-balletthenewclassic2026</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/restyle30th-balletthenewclassic2026</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection YUTASETOGAWA 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/yutasetogawa-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/yutasetogawa-2027ss-collection</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection Vivienne Westwood RED+MAN 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/vivienne-westwood-redman-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/vivienne-westwood-redman-2026aw-collection</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection LES SIX 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/les-six-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/les-six-2027ss-collection-runway</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection COYSEIO 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/coyseio-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/coyseio-2026aw-collection</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection BOWTE 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/bowte-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/bowte-2026aw-collection</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tohjiが東京ドームで音楽活動最後のライブ「TOKYO MALL」を開催</title>
+      <title>Tohjiが東京ドームで音楽活動最後のライブ「TOKYO MALL」を開催 Aug 9, 2026</title>
       <link>https://qui.tokyo/news/2608-tohji-tokyo-mall</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-tohji-tokyo-mall</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>132 5. ISSEY MIYAKE、南青山に新たな旗艦店をオープン</title>
+      <title>132 5. ISSEY MIYAKE、南青山に新たな旗艦店をオープン Aug 9, 2026</title>
       <link>https://qui.tokyo/news/2608-132-5-issey-miyake-aoyamaopen</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-132-5-issey-miyake-aoyamaopen</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hairy Maryが紡ぐ、母への想いとロンドンの反骨精神</title>
+      <title>Hairy Maryが紡ぐ、母への想いとロンドンの反骨精神 Aug 8, 2026</title>
       <link>https://qui.tokyo/fashion/hairy-mary</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/hairy-mary</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
@@ -229,33 +253,9 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ami Paris、GINZA SIXブティックをリニューアルオープン 新ストアコンセプトを導入 刷新されたインテリアは、フレッシュでタイムレス、そしてオーセンティックな魅力を備えた＜Ami Paris＞のDNAと、パリらしいエスプリを表現している。 エレガントなパリのアパル</title>
-      <link>https://qui.tokyo/news/260806-ami-paris-ginza-six</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/260806-ami-paris-ginza-six</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>T.T、ウィメンズコレクションのローンチを記念したエキシビションを開催中 Aug 6, 2026</title>
       <link>https://qui.tokyo/news/2608-t-t-ok-rm</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-t-t-ok-rm</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「新津保建秀 時の旅—写真はいつ届くのか」がALで開催、写真に内在する時間を再考する 本展では、北鎌倉、武蔵野、稲城、葉山など、異なる時期に他者と歩いた場所で撮影された像を展開する。朝吹真理子による『信号旗 K』の連載時期に撮影された風景をはじめ、日記やドローイングを組み合わせ、会場の</title>
-      <link>https://qui.tokyo/news/2608-shintsubokensyu-al</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2608-shintsubokensyu-al</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEVESKIGが2027年春夏コレクション「SHIFT」のリリースを記念したアートフェスティバルを開催、NIGHT EVENTタイムテーブルも公開 本イベントは、シーズンテーマ「SHIFT」の世界観を体現する＜SEVESKIG＞主催のアートフェスティバルだ。＜SEVESKIG＞と関係性のあるアーティスト・イラストレーターとの共創を軸に、コレクショ</title>
-      <link>https://qui.tokyo/news/2608-seveskig-shift-art-festival</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2608-seveskig-shift-art-festival</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>坂本龍一と高谷史郎による「RYUICHI SAKAMOTO + SHIRO TAKATANI AMBIENT KYOTO - TOKYO」、麻布台ヒルズギャラリーで開催 Aug 6, 2026</title>
-      <link>https://qui.tokyo/news/2608-ryuichi-sakamoto-shiro-takatani-ambient-kyoto-tokyo</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2608-ryuichi-sakamoto-shiro-takatani-ambient-kyoto-tokyo</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -265,19 +265,19 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>KEEN、高尾ベースで「トレイルランニングシューズ無料レンタルイベント」を開催中 Aug 6, 2026</title>
+      <title>KEEN、高尾ベースで「トレイルランニングシューズ無料レンタルイベント」を開催中 本イベントでは、タイムや順位を競うのではなく、大自然の中を気持ちよく走る「FUN RUN」の楽しさを提案する＜KEEN＞のトレイルランニングシューズを無料でレンタルできる。期間中は月替わりで3種類のモ</title>
       <link>https://qui.tokyo/news/2608-keen</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-keen</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>D&#x27;ORSAY、ハンドクリーム「ローズ パラディ R.B.」を発売 Aug 6, 2026</title>
+      <title>D&#x27;ORSAY、ハンドクリーム「ローズ パラディ R.B.」を発売 「ローズ パラディ R.B.」のエクステンションとしてデザインされたハンドクリームは、日常の所作を感覚を呼び覚ますリチュアルへと導くアイテム。自然由来成分を97％配合し、肌にやさしく溶け込むようになじ</title>
       <link>https://qui.tokyo/news/2608-dorsay</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-dorsay</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>bonjour recordsとThe Strokesが、オフィシャルTシャツ＆トートバッグを8/7（金）より発売 Aug 6, 2026</title>
+      <title>bonjour recordsとThe Strokesが、オフィシャルTシャツ＆トートバッグを8/7（金）より発売 今回のコレクションでは、The Strokesの象徴的なロゴを異なるフォントやテクスチャーで表現したTシャツ4型とトートバッグ2型に加え、胸ポケットへアイコニックなシグネチャーワッペンを配したポケット</title>
       <link>https://qui.tokyo/news/2608-bonjour-records-the-strokes</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-bonjour-records-the-strokes</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
