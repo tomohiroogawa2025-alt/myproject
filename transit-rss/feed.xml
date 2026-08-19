@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 22:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:45:09 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜ 「ルーシー・リー展」約10年ぶりに開催。〜9/13まで 東京都庭園美術館で、東西の美が重なり合う。</title>
+      <link>https://transit.jp/article/japan/editorspick_lucierie-teienmuseum</link>
+      <guid isPermaLink="true">https://transit.jp/article/japan/editorspick_lucierie-teienmuseum</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Editor&#x27;s Pick｜ 映画『星の時 4K』8/21公開 ブラジル映画史に残る傑作が4Kレストアで蘇る</title>
       <link>https://transit.jp/article/brazil/editorspick_a-hora-da-estrela</link>
@@ -23,12 +29,6 @@
       <link>https://transit.jp/article/japan/monthly2508_peace_interview_tatsuru-uchida_01</link>
       <guid isPermaLink="true">https://transit.jp/article/japan/monthly2508_peace_interview_tatsuru-uchida_01</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Editor&#x27;s Pick｜ イッセイ ミヤケ特別展「ザ・ペーパーログ：膜と核」 服づくりの副産物×建築が融合するデザイン。8/13〜9/13開催</title>
-      <link>https://transit.jp/article/japan/editorspick_isseimiyake_the-paper-log</link>
-      <guid isPermaLink="true">https://transit.jp/article/japan/editorspick_isseimiyake_the-paper-log</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
