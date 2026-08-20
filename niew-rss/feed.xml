@@ -5,7 +5,13 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:57:13 +0000</lastBuildDate>
+    <item>
+      <title>東京・文京区のお寺で音楽フェス？ 『JUHLA FESTIVAL』第1弾にスーパー登山部ら8組</title>
+      <link>https://niewmedia.com/news/2608juhlafestival/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608juhlafestival/</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>関西最大級カルチャー博『méli mélo osaka』第3弾発表！ 藤井隆、PESの出演が決定</title>
       <link>https://niewmedia.com/news/2608melimeloosaka/</link>
@@ -13,10 +19,10 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>『MASHUP FESTIVAL kobe’26』第2弾出演者にOKAMOTO’S、VIDEOTAPEMUSICら</title>
-      <link>https://niewmedia.com/news/2608mashup-fes/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608mashup-fes/</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <title>『ボロフェスタ2026』第2弾出演者に尾崎世界観、LOSTAGE、kurayamisakaら26組</title>
+      <link>https://niewmedia.com/news/2608borofesta/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608borofesta/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>『TAMATAMA FESTIVAL 2026』第1弾で三浦透子、YOGEE NEW WAVES、Nikoんら</title>
@@ -25,28 +31,10 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>神奈川・葉山で朝まで浸る？ 『Hayamatic!』初の宿泊型音楽イベントにクリス・ココら</title>
-      <link>https://niewmedia.com/news/2608hatamatic/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608hatamatic/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>実写『ルックバック』メイキング写真＆オフショット公開、是枝裕和が捉えた秋田の四季</title>
-      <link>https://niewmedia.com/news/2608lookback-making/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608lookback-making/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>墨田区主催『すみだ五彩の芸術祭』、区内50ヶ所以上で100を超えるプログラムを展開</title>
-      <link>https://niewmedia.com/news/2608sumida/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608sumida/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>坂口健太郎主演『私はあなたを知らない、』監督こだわりの「遊園地シーン」写真が公開</title>
-      <link>https://niewmedia.com/news/2608watashiha/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608watashiha/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <title>ポッドキャスト発のイベントで新たなつながり？ 代官山にテレビ大陸音頭や芸人ら集結</title>
+      <link>https://niewmedia.com/news/2608culturethatcultures/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608culturethatcultures/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>バンTのポップアップ『BAND-T POPUP #9』開催、DYGLやw.o.d.ら全34組参加</title>
@@ -55,15 +43,27 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>エドワード・ヤン監督作『恐怖分子』からオルタナティブビジュアル16点公開</title>
-      <link>https://niewmedia.com/news/2608terrorizers/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608terrorizers/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <title>広瀬アリスと三木孝浩が描く世界とは？ 名作SF漫画『ぼくの地球を守って』初実写ドラマ化</title>
+      <link>https://niewmedia.com/news/2608bokunochikyuwomamotte/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608bokunochikyuwomamotte/</guid>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>メインコンテンツまでスキップ</title>
+      <link>https://niewmedia.com/news/#main-content</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>幸せな結婚式が一転？ 『ドラマなふたり』不穏な特別映像と入場者特典が解禁</title>
       <link>https://niewmedia.com/news/2608drama-2/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608drama-2/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ジェイク・ギレンホール×ヘンリー・カヴィル共演『グレイ・ミッション』予告＆ポスター公開 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2607greymission/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2607greymission/</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -109,16 +109,52 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>デビュー曲500万再生に続く新曲の全貌は？ TAKARA“明るい夢”のMV公開決定</title>
+      <link>https://niewmedia.com/news/2608takara/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608takara/</guid>
+      <pubDate>Thu, 20 Aug 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>田中樹がゲスト、せいやがMCに。Zeebraによる女性ラッパーオーディション番組が始動</title>
+      <link>https://niewmedia.com/news/2608goldenmic/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608goldenmic/</guid>
+      <pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>あいみょん10周年特番『NHK ONE LIVE』完全版が放送決定、テレビ初披露曲も！</title>
+      <link>https://niewmedia.com/news/2608aimyon-onelive/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608aimyon-onelive/</guid>
+      <pubDate>Thu, 20 Aug 2026 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>映画『スワロウテイル 4Kリマスター』グッズ26種発売、岩井俊二が明かす制作秘話も</title>
+      <link>https://niewmedia.com/news/2608swallowtail-2/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608swallowtail-2/</guid>
+      <pubDate>Thu, 20 Aug 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『KNOCKERS』最優秀賞が決定！ 曽我部恵一らの講評も</title>
+      <link>https://niewmedia.com/news/2608knockers/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608knockers/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『Ｔシャツが乾くまで』サイドストーリー第7.5話配信決定、夏帆＆松山ケンイチが出演</title>
+      <link>https://niewmedia.com/news/2608tshirt-side/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608tshirt-side/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:57:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Netflix『SとX』中島健人＆新木優子を取り巻く相関図と冒頭映像が公開</title>
       <link>https://niewmedia.com/news/2608stox-sokanzu/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2608stox-sokanzu/</guid>
       <pubDate>Thu, 20 Aug 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>メインコンテンツまでスキップ</title>
-      <link>https://niewmedia.com/news/#main-content</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
-      <pubDate>Thu, 20 Aug 2026 07:00:00 +0000</pubDate>
+      <title>上白石萌音主演、共演に向井康二。TBSドラマ『いろはの恋は時代をかける』10月放送</title>
+      <link>https://niewmedia.com/news/2608iroha/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608iroha/</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Maroon 5が2年ぶりに来日、東京ドームで3日間のプレミアムなライブを開催</title>
@@ -137,42 +173,6 @@
       <link>https://niewmedia.com/news/2606kimishima/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2606kimishima/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PUFFY、未配信の60曲を一挙サブスク解禁！ デビュー30周年を機に名曲を振り返る</title>
-      <link>https://niewmedia.com/news/2608puffy/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608puffy/</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KID FRESINOが初のライブアルバム配信＆ライブ映像公開。折坂悠太、YONCEら参加</title>
-      <link>https://niewmedia.com/news/2608kidfresino/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608kidfresino/</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>光GENJIの全楽曲が順次配信スタート！ 第1弾はラストアルバム『See You Again』</title>
-      <link>https://niewmedia.com/news/2608hikarugenji/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608hikarugenji/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GANG PARADEが最初で最後の海外ツアーを開催。ロンドン「The Underworld」を含むイギリスで3公演 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2604gangparade/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2604gangparade/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>単館発の自主映画『レンタル家族』が、全国26の映画館で拡大上映決定</title>
-      <link>https://niewmedia.com/news/2608rentarukazoku/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608rentarukazoku/</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>森七菜、4年ぶりに音楽活動開始。あいみょん提供の新曲でみせる「重めの愛情」とは？</title>
-      <link>https://niewmedia.com/news/2608morinana/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608morinana/</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
