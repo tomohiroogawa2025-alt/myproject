@@ -5,7 +5,85 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:35:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:32:29 +0000</lastBuildDate>
+    <item>
+      <title>PLACE</title>
+      <link>https://qui.tokyo/shop</link>
+      <guid isPermaLink="true">https://qui.tokyo/shop</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QUI CREATIVE</title>
+      <link>https://qui.tokyo/quicreative/</link>
+      <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>広告、タイアップに関するお問い合わせ</title>
+      <link>https://qui.tokyo/production-request</link>
+      <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MARGARET HOWELL × Mizuno、GORE-TEX®採用ハイキングシューズにライトグレーの新色</title>
+      <link>https://qui.tokyo/news/260822-margaret-howellxmizuno</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/260822-margaret-howellxmizuno</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection UMA WANG 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/uma-wang-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/uma-wang-2027ss-collection</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection ORIMI 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/orimi-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/orimi-2026aw-collection</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MARMOT 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/marmot-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/marmot-2026aw-collection</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection EZUMi 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/ezumi-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/ezumi-2027ss-collection</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection CEIVE 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/ceive-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/ceive-2027ss-collection</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>VIEW ALL</title>
       <link>https://qui.tokyo/todays</link>
@@ -49,24 +127,6 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>PLACE</title>
-      <link>https://qui.tokyo/shop</link>
-      <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QUI CREATIVE</title>
-      <link>https://qui.tokyo/quicreative/</link>
-      <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>広告、タイアップに関するお問い合わせ</title>
-      <link>https://qui.tokyo/production-request</link>
-      <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>YVMINとNUBIANが東京でポップアップ開催、限定アイウェア4型を発売</title>
       <link>https://qui.tokyo/news/2608-yvmin-nubian</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-yvmin-nubian</guid>
@@ -97,7 +157,7 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>バッジュ・シャーム「MORIBITO」がLAGで開催、日本のクリエイターと共同制作した絵本・短編アニメーションの完成記念展</title>
+      <title>バッジュ・シャーム「MORIBITO」がLAGで開催、日本のクリエイターと共同制作した絵本・短編アニメーションの完成記念展 Aug 21, 2026</title>
       <link>https://qui.tokyo/news/2608-moribito-lag</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-moribito-lag</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
@@ -127,12 +187,6 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>遊ぶ時間を、少しずらして ー 「1955 東京ベイ by 星野リゾート」で過ごす夏</title>
       <link>https://qui.tokyo/feature/hoshino_bay</link>
       <guid isPermaLink="true">https://qui.tokyo/feature/hoshino_bay</guid>
@@ -154,54 +208,6 @@
       <title>新宿のセレクトショップ「jackpot」が注目する、新鋭ブランドkallyuの26秋冬注目アイテム</title>
       <link>https://qui.tokyo/fashion/2608-jackpot-kallyu-26aw-popup</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/2608-jackpot-kallyu-26aw-popup</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection UMA WANG 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/uma-wang-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/uma-wang-2027ss-collection</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection ORIMI 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/orimi-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/orimi-2026aw-collection</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection MARMOT 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/marmot-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/marmot-2026aw-collection</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection EZUMi 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/ezumi-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/ezumi-2027ss-collection</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection CEIVE 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/ceive-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/ceive-2027ss-collection</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -247,19 +253,13 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>KENZOがアーカイブを再解釈、グラフィックストーリー「KISS &amp; チェリー」と「ジャンピング タイガー」を展開 KISS &amp; チェリー 2026年秋冬シーズンでは、1970年秋冬コレクションのアーカイブから着想を得た「KISS」モチーフが再登場。1971年の『Vogue UK』のエディト</title>
-      <link>https://qui.tokyo/news/260819-kenzo</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/260819-kenzo</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Buffer「Delivery 11」が8/22（土）に発売、Tシャツ3型とグッズ5型の全8アイテム 「Delivery 11」は、1980年代のアメリカンカルチャーへのオマージュを基調としたTシャツ3型をラインアップ。メインロゴをモディファイしたグラフィックで企業ロゴへのオマージュを表現し</title>
       <link>https://qui.tokyo/news/260819-buffer</link>
       <guid isPermaLink="true">https://qui.tokyo/news/260819-buffer</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VEJAが新作スニーカー「GT」を発表 Aug 19, 2026</title>
+      <title>VEJAが新作スニーカー「GT」を発表 GTの特徴は、レーシングシューズを思わせるディテールだ。グリップ力を意識したアウトソールには六角形のスタッドを採用し、トラック上での精密なコントロールを想起させるデザインに仕上げた。さらに、スリムなソ</title>
       <link>https://qui.tokyo/news/2608-veja-gt</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-veja-gt</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
