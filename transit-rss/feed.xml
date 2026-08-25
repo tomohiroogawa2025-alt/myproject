@@ -5,7 +5,7 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:48:21 +0000</lastBuildDate>
     <item>
       <title>なぜアゼルバイジャンは「石油の国」になったのか？ ソ連、ナチス・ドイツが狙った、カスピ海に眠るオイル</title>
       <link>https://transit.jp/article/azerbaijan/oil_money</link>
@@ -29,12 +29,6 @@
       <link>https://transit.jp/article/japan/editorspick_lucierie-teienmuseum</link>
       <guid isPermaLink="true">https://transit.jp/article/japan/editorspick_lucierie-teienmuseum</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Editor&#x27;s Pick｜ 映画『星の時 4K』8/21公開 ブラジル映画史に残る傑作が4Kレストアで蘇る</title>
-      <link>https://transit.jp/article/brazil/editorspick_a-hora-da-estrela</link>
-      <guid isPermaLink="true">https://transit.jp/article/brazil/editorspick_a-hora-da-estrela</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
