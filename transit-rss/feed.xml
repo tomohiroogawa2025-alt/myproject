@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:18:48 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜カメラと小説が結ぶ、父と息子。西山 勲 写真展「Papa, You’re Crazy〈クジラと天体、父の島〉」</title>
+      <link>https://transit.jp/article/tokyo/papa-youre-crazy</link>
+      <guid isPermaLink="true">https://transit.jp/article/tokyo/papa-youre-crazy</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>菊地成孔が、みて、きいた 。 映画『叛逆のサウンドトラック』 政治、ジャズ、アメリカ、アフリカが交錯する156分</title>
       <link>https://transit.jp/article/usa/soundtrack-toacoup_kikuchinaruyoshi</link>
@@ -17,18 +23,6 @@
       <link>https://transit.jp/article/france/pyrenex-transit-event-20260912</link>
       <guid isPermaLink="true">https://transit.jp/article/france/pyrenex-transit-event-20260912</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Event｜ニュージーランド特集発売イベント 根本絵梨子、平野紗季子×編集部「大地を歩き、食をめぐる。ニュージーランドの素顔を旅して」9/11（金）＠HOME/WORK VILLAGE</title>
-      <link>https://transit.jp/article/new-zealand/t73_event_260911</link>
-      <guid isPermaLink="true">https://transit.jp/article/new-zealand/t73_event_260911</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>アゼルバイジャンでしたい10のこと！ 秘境でコーカサス山脈ハイキング、カスピ海の港町でのんびり…more！</title>
-      <link>https://transit.jp/article/azerbaijan/azerbaijan_todo10</link>
-      <guid isPermaLink="true">https://transit.jp/article/azerbaijan/azerbaijan_todo10</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
