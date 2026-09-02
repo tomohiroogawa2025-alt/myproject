@@ -5,7 +5,7 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:47:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:59:53 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
@@ -31,6 +31,12 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>原宿のセレクトショップ「PNG」がジョージア発ブランド「PROTÉMOA」のポップアップを9/11から開催</title>
+      <link>https://qui.tokyo/news/2609-png-protemoa-0911</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-png-protemoa-0911</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>YOKEとTSUCHIYA KABANが初コラボ、ヴィンテージ着想のレザーグッズ2型を発売</title>
       <link>https://qui.tokyo/news/2608-yoke-tsuchiya-kaban</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-yoke-tsuchiya-kaban</guid>
@@ -43,9 +49,21 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>マルタン・マルジェラの展覧会「MARTIN MARGIELA」、高崎・前橋4会場で9/19（土）より開催</title>
+      <link>https://qui.tokyo/news/2608-martin-margiela-rin-art-association</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2608-martin-margiela-rin-art-association</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>MODELS</title>
       <link>https://qui.tokyo/models</link>
       <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>いま観るべき映画｜2026年9月</title>
+      <link>https://qui.tokyo/film/202609movie</link>
+      <guid isPermaLink="true">https://qui.tokyo/film/202609movie</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -55,33 +73,33 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection yoshiokubo 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/yoshiokubo-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/yoshiokubo-2027ss-collection-runway</guid>
+      <title>Collection WT. Wolfgang Tannhauser 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/wt-wolfgang-tannhauser-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/wt-wolfgang-tannhauser-2027ss-collection</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection NewRose 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/newrose-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/newrose-2027ss-collection</guid>
+      <title>Collection SEISHIN 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/seishin-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/seishin-2027ss-collection</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection HYEIN SEO 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/hyein-seo-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/hyein-seo-2026aw-collection</guid>
+      <title>Collection SAN SAN GEAR 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/san-san-gear-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/san-san-gear-2026aw-collection</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection FUMITO GANRYU 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/fumito-ganryu-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/fumito-ganryu-2026aw-collection</guid>
+      <title>Collection PONTI 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/ponti-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/ponti-2027ss-collection</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection ENSW 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/ensw-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/ensw-2027ss-collection</guid>
+      <title>Collection AllSaints 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/allsaints-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/allsaints-2026aw-collection</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -94,6 +112,18 @@
       <title>BRAND</title>
       <link>https://qui.tokyo/brand</link>
       <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>いま行くべきアートイベント｜2026年9月</title>
+      <link>https://qui.tokyo/art-design/art_2609</link>
+      <guid isPermaLink="true">https://qui.tokyo/art-design/art_2609</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“ルーシー・リーらしさ”は、どう生まれたのか — 「ルーシー・リー展―東西をつなぐ優美のうつわ―」レポート</title>
+      <link>https://qui.tokyo/art-design/2609-llucie-rie</link>
+      <guid isPermaLink="true">https://qui.tokyo/art-design/2609-llucie-rie</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -115,7 +145,7 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FENDIが「ベリー コリブリ」を発売、シグネチャーパンプスを再構築</title>
+      <title>FENDIが「ベリー コリブリ」を発売、シグネチャーパンプスを再構築 Aug 31, 2026</title>
       <link>https://qui.tokyo/news/260831-fendi</link>
       <guid isPermaLink="true">https://qui.tokyo/news/260831-fendi</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
@@ -139,7 +169,7 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Loro Pianaがモンゴルの草原とカシミヤ生態系を支援する「Resilient Threads」プロジェクトを推進</title>
+      <title>Loro Pianaがモンゴルの草原とカシミヤ生態系を支援する「Resilient Threads」プロジェクトを推進 Aug 31, 2026</title>
       <link>https://qui.tokyo/news/2608-loro-piana-unccd-resilient-threads</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-loro-piana-unccd-resilient-threads</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
@@ -151,7 +181,7 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HYEIN SEOが2026年秋冬のキャンペーンを公開、90年代〜2000年代のポップアイコンを現代的に再解釈</title>
+      <title>HYEIN SEOが2026年秋冬のキャンペーンを公開、90年代〜2000年代のポップアイコンを現代的に再解釈 Aug 31, 2026</title>
       <link>https://qui.tokyo/news/2608-hyein-seo-2026aw-campaign-visuals</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-hyein-seo-2026aw-campaign-visuals</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
@@ -163,13 +193,13 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GraphpaperとAMBIENT KYOTOがコラボ、限定Tシャツとバッグを発売</title>
+      <title>GraphpaperとAMBIENT KYOTOがコラボ、限定Tシャツとバッグを発売 Aug 31, 2026</title>
       <link>https://qui.tokyo/news/2608-graphpaper-ambient-kyoto</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-graphpaper-ambient-kyoto</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>gallery stoopにて「PINSTRIPE」が開催、英国のメタルワークと京都の漆工芸が融合</title>
+      <title>gallery stoopにて「PINSTRIPE」が開催、英国のメタルワークと京都の漆工芸が融合 Aug 31, 2026</title>
       <link>https://qui.tokyo/news/2608-gallery-stoopni</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-gallery-stoopni</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
@@ -181,13 +211,13 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LOUIS VUITTON、都会的なライフスタイルに寄り添う新作ウィメンズバッグを発売 Aug 29, 2026</title>
+      <title>LOUIS VUITTON、都会的なライフスタイルに寄り添う新作ウィメンズバッグを発売 「ナノ·フリヴォル」は、「ノエ」をコンパクトな横長のシルエットで再解釈したバッグ。モノグラム·キャンバスにヌメ革のトリミングをあしらい、スマートフォンや財布などのコンパクトなマストハブアイテム</title>
       <link>https://qui.tokyo/news/260829-louis-vuitton</link>
       <guid isPermaLink="true">https://qui.tokyo/news/260829-louis-vuitton</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LOEWEが2026年秋冬コレクションのキャンペーンを公開、モンブラン山群で最新コレクションを撮影 Aug 29, 2026</title>
+      <title>LOEWEが2026年秋冬コレクションのキャンペーンを公開、モンブラン山群で最新コレクションを撮影 氷と雪、花崗岩の峰々が連なるアルプスの風景を背景に、コレクションの大胆なカラーや革新的な素材、再解釈されたシルエットを表現。まばゆいイエローのニットウェアや柔らかなシアリングのミトン、シアリン</title>
       <link>https://qui.tokyo/news/260829-loewe</link>
       <guid isPermaLink="true">https://qui.tokyo/news/260829-loewe</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
@@ -205,33 +235,21 @@
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>PRADA BEAUTY「ウィステリア コレクション」が登場、9/4（金）全国発売 Aug 29, 2026</title>
+      <title>PRADA BEAUTY「ウィステリア コレクション」が登場、9/4（金）全国発売 同コレクションのインスピレーション源は、＜PRADA（プラダ）＞の歴史に刻まれたファッションアーカイブ。フェミニンな甘さを持つパープルと意外性のあるカラーを組み合わせ、パープルを力強く知的なステー</title>
       <link>https://qui.tokyo/news/260822-prada-beauty</link>
       <guid isPermaLink="true">https://qui.tokyo/news/260822-prada-beauty</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OUIEのトランクショーがエディション 表参道ヒルズ店で開催、初の別注カラビナも発売 Aug 28, 2026</title>
+      <title>OUIEのトランクショーがエディション 表参道ヒルズ店で開催、初の別注カラビナも発売 ＜OUIE＞は、ルイ・クレスウェルによる「機能のためにつくられたものを、ゴールドでつくり直したら、その意味は変わるのか。」というシンプルな問いを出発点とするブランド。装飾ではなく、日用品や工業</title>
       <link>https://qui.tokyo/news/260828-ouie</link>
       <guid isPermaLink="true">https://qui.tokyo/news/260828-ouie</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>JW ANDERSONがデニムコレクション「Twisted Denim」のキャンペーンビジュアルを公開 Aug 28, 2026</title>
+      <title>JW ANDERSONがデニムコレクション「Twisted Denim」のキャンペーンビジュアルを公開 ＜JW ANDERSON＞のデニムコレクションは、ブランドを象徴するデザインとクラフトマンシップへの革新的なアプローチを体現している。着心地の良いシルエットをベースにした「Tw</title>
       <link>https://qui.tokyo/news/2608-jwanderson-twisted-denim</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2608-jwanderson-twisted-denim</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>京都のキュレーションショップ「INTA-NET KYOTO」がリニューアル、ポストモダン家具からZINEまで展開 店内では、イタリアなどのポストモダンデザイン家具や＜YAMAGIWA（ヤマギワ）＞などの1980〜90年代の日本のヴィンテージ照明、アフリカンテキスタイルやヴィンテージマスク、＜ALESSI（アレッシ</title>
-      <link>https://qui.tokyo/news/2608-inta-net-kyoto-renewal</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2608-inta-net-kyoto-renewal</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「愛媛百貨店 in AKOMEYA TOKYO」が6店舗で開催、愛媛の柑橘製品や鯛めしなどを展開 店頭では、瀬戸内の恵みを生かした柑橘加工品やストレート果汁100％ジュースをはじめ、炊き込みごはんの素、天然真鯛を使用した鯛のおおぶり焼きほぐしなどを展開する。愛媛の郷土料理「鯛めし」のほか、今治産う</title>
-      <link>https://qui.tokyo/news/2608-ehimehyakkaten-akomeyatokyo</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2608-ehimehyakkaten-akomeyatokyo</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -286,24 +304,6 @@
       <title>011 Aug 20.2026 PETROSOLAUM Side gore</title>
       <link>https://qui.tokyo/today/202608-011</link>
       <guid isPermaLink="true">https://qui.tokyo/today/202608-011</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>010 Aug 19.2026 FRITZ HANSEN イケバナ ロング</title>
-      <link>https://qui.tokyo/today/202608-010</link>
-      <guid isPermaLink="true">https://qui.tokyo/today/202608-010</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>009 Aug 14.2026 Valextra マイロゴ ラージ サブライム</title>
-      <link>https://qui.tokyo/today/202608-009</link>
-      <guid isPermaLink="true">https://qui.tokyo/today/202608-009</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>008 Aug 13.2026 Shokz OpenRun Pro 2</title>
-      <link>https://qui.tokyo/today/202608-008</link>
-      <guid isPermaLink="true">https://qui.tokyo/today/202608-008</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
