@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:14:03 +0000</lastBuildDate>
+    <item>
+      <title>News｜映画『オデュッセイア』9/11公開 クリストファー・ノーラン監督が ギリシャ、イタリア、モロッコ、アイスランド… 世界各地で撮影した古代英雄譚！</title>
+      <link>https://transit.jp/article/greece/news_the-odyssey</link>
+      <guid isPermaLink="true">https://transit.jp/article/greece/news_the-odyssey</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>スペインのお祭りカレンダー 春夏秋冬を巡る伝統の祭り。 ラ・トマティーナ、サン・フェルミン祭、セマナ・サンタ…and more!!</title>
       <link>https://transit.jp/article/spain/festival_calendar</link>
@@ -23,12 +29,6 @@
       <link>https://transit.jp/article/tokyo/news_nordic-journey-vol11</link>
       <guid isPermaLink="true">https://transit.jp/article/tokyo/news_nordic-journey-vol11</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜映画『戦場0地点』9/4公開。ウクライナ侵攻の最前線を記録したドキュメンタリー</title>
-      <link>https://transit.jp/article/ukraine/news_movie_2000-meters-to-andriivka</link>
-      <guid isPermaLink="true">https://transit.jp/article/ukraine/news_movie_2000-meters-to-andriivka</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Event｜「和田彩花に訊いた、フランスでみつけた心地よく暮らすヒント」 PYRENEX×TRANSITトークイベント 9/12（土）＠東京・丸の内で開催。フローラン・ダバディさん、TRANSIT編集部も登壇！</title>
