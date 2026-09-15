@@ -5,71 +5,173 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:24:08 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAN SAN GEARが渋谷PARCOでポップアップを開催</title>
+      <link>https://qui.tokyo/news/2609-san-san-gear-shibuya-parco-popup</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-san-san-gear-shibuya-parco-popup</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>清川あさみと名和晃平の二人展「Invisible Garden」、ポーラ ミュージアム アネックスで開催</title>
+      <link>https://qui.tokyo/news/2609-invisible-garden-polaannex</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-invisible-garden-polaannex</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GUCCI「Gucci Primavera」から新作スモールレザーグッズ、3シリーズを展開</title>
+      <link>https://qui.tokyo/news/2609-gucci-gucciprimavera-small-leather</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-gucci-gucciprimavera-small-leather</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>adidas Skateboardingから日本限定「SAMBA ADV JP」が登場、9/19（土）先行発売</title>
+      <link>https://qui.tokyo/news/2609-adidas-skateboarding-samba-adv-jp</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-adidas-skateboarding-samba-adv-jp</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection TORY BURCH 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/tory-burch-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/tory-burch-2027ss-collection-runway</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MAYKAM 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/maykam-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/maykam-2027ss-collection</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection KHAITE 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/khaite-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/khaite-2027ss-collection-runway</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection KANAKO SAKAI 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/kanako-sakai-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/kanako-sakai-2027ss-collection</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection HATRA 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/hatra-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/hatra-2027ss-collection</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>YOKE WOMENSが伊勢丹新宿店で初のポップアップストアを開催、2026年秋冬のデビューコレクションを先行販売</title>
+      <link>https://qui.tokyo/news/2609-yoke-womens-isetan-popup</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-yoke-womens-isetan-popup</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vivienne Westwoodより新作「Drunken Trainer」が登場</title>
+      <title>Vivienne Westwoodより新作「Drunken Trainer」が登場 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-vivienne-westwood</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-vivienne-westwood</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>THE KEIJIが表参道にデニム専門店「THE KEIJI DENIM」を9/4（金）よりオープン</title>
+      <title>THE KEIJIが表参道にデニム専門店「THE KEIJI DENIM」を9/4（金）よりオープン Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-the-keiji</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-the-keiji</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>TAMBURINSが新作「O HAND CREAM」を9/17（木）より発売</title>
+      <title>TAMBURINSが新作「O HAND CREAM」を9/17（木）より発売 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-tamburins</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-tamburins</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SHISEIDOが体験型イベント「ディグる？」を9/11（金）より開催中</title>
+      <title>SHISEIDOが体験型イベント「ディグる？」を9/11（金）より開催中 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-shiseido</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-shiseido</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NIKEと『ONE PIECE』が特別コレクションを発表、3種の「エア マックス プラス」などを展開</title>
+      <title>NIKEと『ONE PIECE』が特別コレクションを発表、3種の「エア マックス プラス」などを展開 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-nike-one-piece</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-nike-one-piece</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Marc Jacobsが伊勢丹新宿店に新店舗をオープン</title>
+      <title>Marc Jacobsが伊勢丹新宿店に新店舗をオープン Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-marc-jacobs</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-marc-jacobs</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LIKOUがオリジナルブランドを始動、1st Collection全7型を展開</title>
+      <title>LIKOUがオリジナルブランドを始動、1st Collection全7型を展開 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-likou</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-likou</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>KIJIMA TAKAYUKIが「HIGHLINE」「answer It」のPOP UPを9/17（日）より開催</title>
+      <title>Levi&#x27;s®がRoséにフィーチャーした没入型ポップアップ「FOR EVERY ORIGINAL」を東京・渋谷で開催 Sep 14, 2026</title>
+      <link>https://qui.tokyo/news/2609-levis%e3%81%8crose-popup-shibuya</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-levis%e3%81%8crose-popup-shibuya</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KIJIMA TAKAYUKIが「HIGHLINE」「answer It」のPOP UPを9/17（日）より開催 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-kijima-takayuki</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-kijima-takayuki</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>jackpot × ANOTHER ASPECTが2026年秋冬スペシャルビジュアルを公開</title>
+      <link>https://qui.tokyo/news/2609-jackpot-x-another-aspect</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-jackpot-x-another-aspect</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GOYARDが銀座エリア初出店、銀座三越に新ブティックをオープン</title>
+      <link>https://qui.tokyo/news/2609-goyard</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-goyard</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -79,69 +181,39 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ATTACHMENTが「STILL ATTACHMENT」を9/11（金）よりローンチ</title>
+      <title>FASHION PRIZE OF TOKYO 2027、第9回受賞デザイナーにTANAKAを選出</title>
+      <link>https://qui.tokyo/news/2609-fashion-prize-of-tokyo-2027-tanaka</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-fashion-prize-of-tokyo-2027-tanaka</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ポール・ウォラックのアジア初個展「DIVISIBLE — 分けられる」がファーガス・マカフリー東京で開催 Sep 14, 2026</title>
+      <link>https://qui.tokyo/news/2609-divisible-paulwallach</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-divisible-paulwallach</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATTACHMENTが「STILL ATTACHMENT」を9/11（金）よりローンチ Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-attachment</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-attachment</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Acne Studiosが創立30周年キャンペーンを発表</title>
+      <title>AHLEMが2026年秋冬コレクション「ECHOES OF LOVE」を発表、17型のフレームでラブストーリーを表現</title>
+      <link>https://qui.tokyo/news/2609-ahlem</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2609-ahlem</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acne Studiosが創立30周年キャンペーンを発表 Sep 14, 2026</title>
       <link>https://qui.tokyo/news/2609-acne-studios</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-acne-studios</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection YOKE WOMENS 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/yoke-womens-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/yoke-womens-2026aw-collection</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection venit 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/venit-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/venit-2027ss-collection</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection TELMA 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/telma-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/telma-2027ss-collection-runway</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection pillings 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/pillings-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/pillings-2027ss-collection-runway</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection OHROHEE 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/ohrohee-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/ohrohee-2027ss-collection</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <title>SONIA CARRASCO 2027年春夏コレクション──衣服の「内側」から生まれる自由</title>
+      <link>https://qui.tokyo/fashion/sonia-carrascoi-2027ss-collection-report</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/sonia-carrascoi-2027ss-collection-report</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -151,69 +223,9 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>BOUCHERON「リエール ドゥ パリ」に9点の新作、ホワイトゴールドとダイヤモンドでアイビーを表現 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/260911-boucheron</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/260911-boucheron</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rhizomatiks個展「After Understanding」開催、金属に刻まれる予測と誤差の軌跡 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-rhizomatiks-after-understanding</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-rhizomatiks-after-understanding</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHOEBE PHILOから最新コレクション「Collection E」のセカンドデリバリーがスタート、新キャンペーンも公開 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-phoebe-philo-collection-e</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-phoebe-philo-collection-e</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lee × Nigel Cabourn ʼOXʼed Silverʼ、BRURRY DENIMを用いたコラボコレクションを9/12（土）発売 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-lee-nigel-cabourn-oxed-silver</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-lee-nigel-cabourn-oxed-silver</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>五木田智央の個展「GOKITA RECORDS 五木田智央の妄想レコードジャケット」、アニエスベー ギャラリー ブティックで開催 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-gokita-records</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-gokita-records</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DR. MARTENS x RICK OWENSの最新コラボレーションが9月10日より応募開始、9月18日より発売 Sep 11, 2026</title>
+      <title>DR. MARTENS x RICK OWENSの最新コラボレーションが9月10日より応募開始、9月18日より発売 最新作では、プルオンブーツとメガレースミュールが新たに加わり、昨年完売したスティール・トゥ・ブーツも再登場。全モデルに＜Dr. Martens＞のクアッドソールを採用し、ワック</title>
       <link>https://qui.tokyo/news/2609-dr-martens-rick-owens</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-dr-martens-rick-owens</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarks OriginalsとTHE INOUE BROTHERS…が日本限定プロジェクト、天然染色のWallabee™を200足限定で展開 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-clarksoriginals-theinouebrothers</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-clarksoriginals-theinouebrothers</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BOCBOKが韓国発キャラクター「HINAKUU」とコラボ、10/3（土）からラフォーレ原宿で先行発売 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-bocbok-hinakuu</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-bocbok-hinakuu</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>清澄白河の「Atelier Macri」が3階建ての複合施設「Atelier Macri Commons」にリニューアル、ジュエリーやRIMLESS TOKYOを展開 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-atelier-macri-atelier-macri-commons</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-atelier-macri-atelier-macri-commons</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>山根悠太郎の個展「44」、see you galleryで開催 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-44-see-you-gallery</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-44-see-you-gallery</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 eyevanの限定カラー「INK」「SEIUN」、EYEVAN 7285 TOKYO/OSAKAで9/12（土）発売 Sep 11, 2026</title>
-      <link>https://qui.tokyo/news/2609-10-eyevan</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-10-eyevan</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -221,12 +233,6 @@
       <link>https://qui.tokyo/fashion/barneys-new-york-by-kanako-sakai-2026aw</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/barneys-new-york-by-kanako-sakai-2026aw</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jacques Marie Mage、バッファローホーンを用いた「HÉRITAGE II」を発売 「HÉRITAGE II」は、＜Jacques Marie Mage＞が10年にわたり培ってきたデザインを再解釈したコレクション。ZEPHIRIN、LECLAIR、YVES、KELLERMAN、俳優ジ</title>
-      <link>https://qui.tokyo/news/2609-jacques-marie-mage-heritage-ii</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2609-jacques-marie-mage-heritage-ii</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Florence Road – ワクワクするほうへ</title>
@@ -298,12 +304,6 @@
       <title>VIEW ALL</title>
       <link>https://qui.tokyo/todays</link>
       <guid isPermaLink="true">https://qui.tokyo/todays</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>017 Sep 10.2026 APFR REED DIFFUSER - Heyoke</title>
-      <link>https://qui.tokyo/today/202609-017</link>
-      <guid isPermaLink="true">https://qui.tokyo/today/202609-017</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
