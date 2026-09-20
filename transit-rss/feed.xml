@@ -5,24 +5,18 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:10:14 +0000</lastBuildDate>
+    <item>
+      <title>旅のおともに、TRANSITの電子書籍を。売り切れた特集も、旅先でも、楽しもう！</title>
+      <link>https://transit.jp/article/theme/e-book</link>
+      <guid isPermaLink="true">https://transit.jp/article/theme/e-book</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>News｜「第一回 前橋国際芸術祭 2026」9/19（土）より開催 風のまち・前橋で感性がめぶく旅へ！</title>
       <link>https://transit.jp/article/gunma/news_maebashi-biennale-2026</link>
       <guid isPermaLink="true">https://transit.jp/article/gunma/news_maebashi-biennale-2026</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜「MEET YOUR ART FESTIVAL 2026」森山未來がアーティスティック・ディレクターを務める国内最大級のアートフェスティバル。東京でアート&amp;カルチャーの”兆し”を体感しよう。</title>
-      <link>https://transit.jp/article/tokyo/myaf_2026</link>
-      <guid isPermaLink="true">https://transit.jp/article/tokyo/myaf_2026</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜「フォンタネージ―イタリアの光・心の風景」約200点の絵画が集う、日本初の大回顧展。京都国立近代美術館で10/4まで開催中</title>
-      <link>https://transit.jp/article/italy/news_antoniofontanesi</link>
-      <guid isPermaLink="true">https://transit.jp/article/italy/news_antoniofontanesi</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
