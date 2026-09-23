@@ -5,7 +5,7 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:39:53 +0000</lastBuildDate>
     <item>
       <title>Editor&#x27;s Pick｜ 横浜美術館コレクション展「海をこえてゆく彼女」 世界を舞台に活躍した女性アーティストの軌跡をたどる</title>
       <link>https://transit.jp/article/kanagawa/news_yokohama-art-museum</link>
@@ -17,12 +17,6 @@
       <link>https://transit.jp/article/theme/e-book</link>
       <guid isPermaLink="true">https://transit.jp/article/theme/e-book</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜「第一回 前橋国際芸術祭 2026」9/19（土）より開催 風のまち・前橋で感性がめぶく旅へ！</title>
-      <link>https://transit.jp/article/gunma/news_maebashi-biennale-2026</link>
-      <guid isPermaLink="true">https://transit.jp/article/gunma/news_maebashi-biennale-2026</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
