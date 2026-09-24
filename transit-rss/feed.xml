@@ -5,9 +5,9 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:33:15 +0000</lastBuildDate>
     <item>
-      <title>Editor&#x27;s Pick｜ 横浜美術館コレクション展「海をこえてゆく彼女」 世界を舞台に活躍した女性アーティストの軌跡をたどる</title>
+      <title>News｜横浜美術館コレクション展「海をこえてゆく彼女」 世界を舞台に活躍した女性アーティストの軌跡をたどる</title>
       <link>https://transit.jp/article/kanagawa/news_yokohama-art-museum</link>
       <guid isPermaLink="true">https://transit.jp/article/kanagawa/news_yokohama-art-museum</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
@@ -17,6 +17,12 @@
       <link>https://transit.jp/article/theme/e-book</link>
       <guid isPermaLink="true">https://transit.jp/article/theme/e-book</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>web特集｜月刊TRANSIT「台湾の友人の”いきつけ”」 嘉義×黃銘彰（編集者） 文学とコーヒーが育む、木の都の風景</title>
+      <link>https://transit.jp/article/taiwan/202605monthly_kagi_brianhuang</link>
+      <guid isPermaLink="true">https://transit.jp/article/taiwan/202605monthly_kagi_brianhuang</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
