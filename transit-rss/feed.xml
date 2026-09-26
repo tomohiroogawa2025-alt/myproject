@@ -5,7 +5,7 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 00:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:39:46 +0000</lastBuildDate>
     <item>
       <title>News | 花梨の現在地を描く個展 「Where I Am」9/25から南青山 〈Otherwise Gallery〉で開催</title>
       <link>https://transit.jp/article/tokyo/karin_whereiam</link>
@@ -23,6 +23,12 @@
       <link>https://transit.jp/article/theme/e-book</link>
       <guid isPermaLink="true">https://transit.jp/article/theme/e-book</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#これが私のモンゴル旅 『天幕のジャードゥーガル』ができるまで。漫画家トマトスープ Interview。モンゴル帝国×敗者の歴史観=復讐劇のその先に??!</title>
+      <link>https://transit.jp/article/mongolia/monthly202506_mongolia_tomatosoup_interview</link>
+      <guid isPermaLink="true">https://transit.jp/article/mongolia/monthly202506_mongolia_tomatosoup_interview</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
