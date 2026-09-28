@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:51:40 +0000</lastBuildDate>
+    <item>
+      <title>TRANSIT定期購読のちょっといい話！ 限定オリジナルステッカーシートをプレゼント！</title>
+      <link>https://transit.jp/article/theme/subscribe</link>
+      <guid isPermaLink="true">https://transit.jp/article/theme/subscribe</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Event｜「你好,台湾！」トークイベント あまんださんと考える、自分を生きるための旅 〜暮らしに取り入れたい台湾スタイル〜 10/11（日）@湖のスコーレ</title>
       <link>https://transit.jp/article/taiwan/taiwanguide_talkevent202610</link>
@@ -29,6 +35,24 @@
       <link>https://transit.jp/article/theme/e-book</link>
       <guid isPermaLink="true">https://transit.jp/article/theme/e-book</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#80年目の平和への旅 思想家・内田樹先生インタビュー【後編】 戦後80年の、その先へ。資本主義を超えて描く未来像</title>
+      <link>https://transit.jp/article/japan/monthly2508_peace_interview_tatsuru-uchida_02</link>
+      <guid isPermaLink="true">https://transit.jp/article/japan/monthly2508_peace_interview_tatsuru-uchida_02</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>月刊TRANSIT｜「スペインのオアシスを探して」 バルセロナから日帰り電車旅。 紺碧のサント・ポル・デ・マルへ</title>
+      <link>https://transit.jp/article/spain/oasis_barcelona_isaonishiyama-02</link>
+      <guid isPermaLink="true">https://transit.jp/article/spain/oasis_barcelona_isaonishiyama-02</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>web特集｜月刊TRANSIT「スペインのオアシスを探して」 バルセロナの陽射しの下、緑影を歩けば</title>
+      <link>https://transit.jp/article/spain/oasis_barcelona_isaonishiyama-01</link>
+      <guid isPermaLink="true">https://transit.jp/article/spain/oasis_barcelona_isaonishiyama-01</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>#これが私のモンゴル旅 『天幕のジャードゥーガル』ができるまで。漫画家トマトスープ Interview。モンゴル帝国×敗者の歴史観=復讐劇のその先に??!</title>
