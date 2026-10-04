@@ -5,24 +5,54 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:33:25 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>英国のアイコンと写真家をたどる「Icons and Image Makers ナショナル ポートレート ギャラリー展」、シャネル・ネクサス・ホールで開催</title>
+      <link>https://qui.tokyo/art-design/2610-icons-and-image-makers</link>
+      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-icons-and-image-makers</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Photographer Yuji Watanabeがアメリカ初個展「妖怪と風景 Yōkai and Landscapes」を10/15（木）よりニューヨークで開催</title>
@@ -31,33 +61,21 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <title>セレクトショップSkoolが上町へ移転、新店舗を10/3(土)にオープン</title>
+      <link>https://qui.tokyo/news/2610-skool-10-3-kamimachi</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-skool-10-3-kamimachi</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <title>Collection UNDERCOVER 2027SS WOMEN’S COLLECTION</title>
+      <link>https://qui.tokyo/collection/undercover-2027ss-womens-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/undercover-2027ss-womens-collection</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection UMA WANG 2027SS WOMEN COLLECTION</title>
-      <link>https://qui.tokyo/collection/uma-wang-2027ss-women-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/uma-wang-2027ss-women-collection</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection STELLA McCARTNEY 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/stella-mccartney-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/stella-mccartney-2027ss-collection-runway</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection Rick Owens 2027SS WOMENS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/rick-owens-2027ss-womens-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/rick-owens-2027ss-womens-collection-runway</guid>
+      <title>Collection MARINE SERRE 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/marine-serre-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/marine-serre-2027ss-collection</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -67,25 +85,25 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection Acne Studios 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/acne-studios-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/acne-studios-2027ss-collection-runway</guid>
+      <title>Collection grounds 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/grounds-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/grounds-2027ss-collection-runway</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <title>Collection ALAINPAUL 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/alainpaul-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/alainpaul-2027ss-collection-runway</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <title>「マリメッコ展 模様のちから」東京都庭園美術館で開催、60点超のドレスとプリントメイキングの創造に迫る</title>
+      <link>https://qui.tokyo/art-design/2610-marimekko-teienartmuseum</link>
+      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-marimekko-teienartmuseum</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ADSB ANDERSSON BELLが阪急うめだ本店でPOP UPを開催、ALPHA INDUSTRIESとのコラボレーション全3型を発売</title>
+      <title>ADSB ANDERSSON BELLが阪急うめだ本店でPOP UPを開催、ALPHA INDUSTRIESとのコラボレーション全3型を発売 Oct 2, 2026</title>
       <link>https://qui.tokyo/news/2910-adsb-andersson-bell-alpha-industries-pop-up</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2910-adsb-andersson-bell-alpha-industries-pop-up</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
@@ -127,13 +145,13 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>JBL創立80周年イベント「JBL 80 YEARS POWERING VOICES in TOKYO」を原宿で開催</title>
+      <title>JBL創立80周年イベント「JBL 80 YEARS POWERING VOICES in TOKYO」を原宿で開催 Oct 2, 2026</title>
       <link>https://qui.tokyo/news/2610-jbl-80-years-powering-voices-in-tokyo</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-jbl-80-years-powering-voices-in-tokyo</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>IM MENが特別展「光が訳すもの」を東京・大阪で開催、SHOKO NARITAとの協働作品を展示</title>
+      <title>IM MENが特別展「光が訳すもの」を東京・大阪で開催、SHOKO NARITAとの協働作品を展示 Oct 2, 2026</title>
       <link>https://qui.tokyo/news/2610-im-men-shoko-narita</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-im-men-shoko-narita</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
@@ -205,13 +223,7 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>「桑田卓郎と叢 展 『多肉植物とプラ鉢』 ― A plastic pot and a succulent ―」Rollで開催 本展では、鉢を植物にとっての「家」と捉え、植物が生きていく上で最適な環境を選ぶことを、人間が住まいを選ぶ行為と重ねている。地球温暖化や海洋問題を背景にプラスティック製品の使用が問われるなか、桑田はその</title>
-      <link>https://qui.tokyo/news/2610-a-plastic-pot-and-a-succulent</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-a-plastic-pot-and-a-succulent</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sporty &amp; RichがGINZA SIXでポップアップを開催中 Oct 1, 2026</title>
+      <title>Sporty &amp; RichがGINZA SIXでポップアップを開催中 ＜Sporty &amp; Rich＞は、Emily Oberg（エミリー・オーバーグ）が手掛けるライフスタイルブランド。本ポップアップでは、ブランドのクリーンでヘルシーなムードに、クラシックなスポー</title>
       <link>https://qui.tokyo/news/2609-sporty-rich-ginza-six</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-sporty-rich-ginza-six</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
@@ -223,13 +235,13 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>F-LAGSTUF-Fから、MICKEY MOUSEコレクションが登場 Oct 1, 2026</title>
+      <title>F-LAGSTUF-Fから、MICKEY MOUSEコレクションが登場 “何にもとらわれないボーダレスな物づくり（An uncategorizable genre）”を掲げる＜F-LAGSTUF-F＞が、世界中で長く愛され続けているキャラクター「MICKEY MOUSE」</title>
       <link>https://qui.tokyo/news/2609-f-lagstuf-f-mickey-mouse</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-f-lagstuf-f-mickey-mouse</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LEMAIREが、伊勢丹新宿店に新ショップスペースをオープン Oct 1, 2026</title>
+      <title>LEMAIREが、伊勢丹新宿店に新ショップスペースをオープン 新スペースでは、＜LEMAIRE＞のワードローブを構成するウィメンズのレディ・トゥ・ウェアおよびアクセサリーを展開。国内限定となる特徴的な素材やカラーを用いたアイテムも取り揃える。 国内限定アイ</title>
       <link>https://qui.tokyo/news/2609-emaire-isetan-shinjuku</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2609-emaire-isetan-shinjuku</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
@@ -293,18 +305,6 @@
       <link>https://qui.tokyo/fashion/paris-fashion-week-2027ss-schedule</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/paris-fashion-week-2027ss-schedule</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>今こそ取り入れたい、エットレ・ソットサスとMEMPHIS ― 暮らしに遊びをもたらす10のプロダクト Sep 25, 2026</title>
-      <link>https://qui.tokyo/life-style/2609-ettoresottsass-memphis</link>
-      <guid isPermaLink="true">https://qui.tokyo/life-style/2609-ettoresottsass-memphis</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wallabee™に琉球文化の彩りをのせて｜THE INOUE BROTHERS×Clarks Originalsのソーシャルデザインの共鳴 Sep 25, 2026</title>
-      <link>https://qui.tokyo/fashion/2609-the-inoue-brothers-clarks-originals-interview</link>
-      <guid isPermaLink="true">https://qui.tokyo/fashion/2609-the-inoue-brothers-clarks-originals-interview</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
