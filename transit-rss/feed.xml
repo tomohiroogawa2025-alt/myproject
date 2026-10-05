@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 00:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:01:28 +0000</lastBuildDate>
+    <item>
+      <title>News｜「ハンセン病療養所のなかの 『外国人』展」。 隔離を強いられた療養所で 外国人はどう生きたのか？</title>
+      <link>https://transit.jp/article/japan/hansen-exhibition</link>
+      <guid isPermaLink="true">https://transit.jp/article/japan/hansen-exhibition</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Editor&#x27;s Pick｜ 『プーチンの愛国教室』 教師が命懸けで記録した ロシアの学校で進む 愛国教育の実情</title>
       <link>https://transit.jp/article/russian/editorspick_mr-nobody-against-putin</link>
@@ -29,12 +35,6 @@
       <link>https://transit.jp/article/vietnam/tsukamotoshinya_interview_movie_nelson</link>
       <guid isPermaLink="true">https://transit.jp/article/vietnam/tsukamotoshinya_interview_movie_nelson</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TRANSIT定期購読のちょっといい話！ 限定オリジナルステッカーシートをプレゼント！</title>
-      <link>https://transit.jp/article/theme/subscribe</link>
-      <guid isPermaLink="true">https://transit.jp/article/theme/subscribe</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
