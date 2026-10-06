@@ -5,19 +5,7 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:10:10 +0000</lastBuildDate>
-    <item>
-      <title>『IF TOKYO 東京国際演劇祭 2028』開催決定！ 芸術監督は野田秀樹、吉永小百合ら応援コメントも</title>
-      <link>https://niewmedia.com/news/2610iftokyo/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610iftokyo/</guid>
-      <pubDate>Sun, 01 Oct 2028 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fontaines D.C.の来日公演が決定、新作を携え東名阪を巡る</title>
-      <link>https://niewmedia.com/news/2609fontainesdc/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2609fontainesdc/</guid>
-      <pubDate>Thu, 28 Jan 2027 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 02:27:07 +0000</lastBuildDate>
     <item>
       <title>土岐麻子『PINK』10周年ライブ決定。アナログ盤の限定リリースも</title>
       <link>https://niewmedia.com/news/2610asakotoki/</link>
@@ -37,15 +25,21 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>『アートウィーク東京』、美術館やギャラリー等をつなぐ無料シャトルバスのルート発表</title>
+      <link>https://niewmedia.com/news/2610awt-bus/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610awt-bus/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>『ゴジラ-0.0』公開記念、山崎貴監督作『ゴジラ-1.0』『三丁目の夕日』金ローで放送</title>
       <link>https://niewmedia.com/news/2610godzilla/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610godzilla/</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>『ボロフェスタ2026』最終出演者にtoe、RAY、Native Rapper、前髪ぱっつん少年ら10組</title>
-      <link>https://niewmedia.com/news/2609borofesta-lineup/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2609borofesta-lineup/</guid>
+      <title>二村真弘最新作『京都ALS患者嘱託殺人事件』に大島新、武田砂鉄ら8名がコメント</title>
+      <link>https://niewmedia.com/news/2610kyotoals/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610kyotoals/</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -58,12 +52,6 @@
       <title>アートを街の光景と一体化。国際美術展『TOKYO ATLAS』に草間彌生、竹岡雄二ら参加 NiEW編集部</title>
       <link>https://niewmedia.com/news/2607tokyoatlas/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2607tokyoatlas/</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京の秋冬を彩る新たな文化芸術祭『ARTE TOKYO』に大巻伸嗣、Rhizomatiksら参加 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2607artetokyo/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2607artetokyo/</guid>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -83,6 +71,12 @@
       <link>https://niewmedia.com/news/2512tokyoatlas/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2512tokyoatlas/</guid>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>未知の観劇体験を、岡田利規ディレクターの舞台芸術祭『秋の隕石2026東京』が10月開幕</title>
+      <link>https://niewmedia.com/news/2610autumnmeteorite/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610autumnmeteorite/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>それぞれの過去に迫る、映画『どこよりも遠い場所にいる君へ』7種のキャラPV公開 NiEW編集部</title>
@@ -115,15 +109,27 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>森七菜があいみょん作詞作曲の新曲を披露！ 4年ぶりに『THE FIRST TAKE』再登場</title>
-      <link>https://niewmedia.com/news/2610morinana-ft/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610morinana-ft/</guid>
-      <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+      <title>渋谷ヒカリエ8/CUBEがU35に会場を無償提供、新たな公募企画の応募受付中</title>
+      <link>https://niewmedia.com/news/2610hachicubenext/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610hachicubenext/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:50:00 +0000</pubDate>
     </item>
     <item>
       <title>メインコンテンツまでスキップ</title>
       <link>https://niewmedia.com/news/#main-content</link>
       <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <pubDate>Mon, 05 Oct 2026 17:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『テレビ×ミセス』に岡田准一、ロバート秋山、松井ケムリが出演、“lulu.”披露も</title>
+      <link>https://niewmedia.com/news/2610tvmga-05/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610tvmga-05/</guid>
+      <pubDate>Mon, 05 Oct 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>森七菜があいみょん作詞作曲の新曲を披露！ 4年ぶりに『THE FIRST TAKE』再登場</title>
+      <link>https://niewmedia.com/news/2610morinana-ft/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610morinana-ft/</guid>
       <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
@@ -163,22 +169,10 @@
       <pubDate>Thu, 01 Oct 2026 18:58:00 +0000</pubDate>
     </item>
     <item>
-      <title>TuneCore Japanの累計還元額が1,000億円突破、全プラン20%オフなど記念企画も</title>
+      <title>TuneCore Japanの累計還元額が1,000億円突破、プラン20％オフなど記念企画も</title>
       <link>https://niewmedia.com/news/2610tunecore/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610tunecore/</guid>
       <pubDate>Thu, 01 Oct 2026 18:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界同時のアルバムリスニングパーティも！ Fontaines D.C.の新曲“Tongue”公開</title>
-      <link>https://niewmedia.com/news/2610fontainesdc/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610fontainesdc/</guid>
-      <pubDate>Thu, 01 Oct 2026 12:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>小林聡美主演『めがね』が全国リバイバル上映。2027年にスクリーンへ</title>
-      <link>https://niewmedia.com/news/2610megane/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610megane/</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
