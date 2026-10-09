@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:15:47 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜『The Ozu Diaries／小津ダイアリー』 世界で支持される小津安二郎の生涯とは？</title>
+      <link>https://transit.jp/article/japan/editorspick_the-ozu-diaries</link>
+      <guid isPermaLink="true">https://transit.jp/article/japan/editorspick_the-ozu-diaries</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>News｜「マリメッコ展 模様のちから」 フィンランドで生まれの〈マリメッコ〉が 時代を越えて愛される秘密に迫る</title>
       <link>https://transit.jp/article/finland/news_marimekko-exhibition-2026</link>
@@ -29,12 +35,6 @@
       <link>https://transit.jp/article/russian/editorspick_mr-nobody-against-putin</link>
       <guid isPermaLink="true">https://transit.jp/article/russian/editorspick_mr-nobody-against-putin</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜「PORTLAND, OREGON BASE CAMP」 東京・池尻でポートランドの 食とカルチャーに触れる</title>
-      <link>https://transit.jp/article/usa/news_portland-oregon-basecamp-2026</link>
-      <guid isPermaLink="true">https://transit.jp/article/usa/news_portland-oregon-basecamp-2026</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>News｜ジョージアワインと伝統料理に出合う店〈Gaumarjos TOKYO〉 10/1から東京・恵比寿でグランドオープン</title>
