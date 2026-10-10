@@ -5,89 +5,185 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:16:50 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VANSONとFAFがコラボレーション、BONESモチーフを再構築したカプセルコレクションを発売</title>
-      <link>https://qui.tokyo/news/261009-vanson-faf</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/261009-vanson-faf</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BVLGARI、数量限定の新作フレグランス「バチアーミ アンコーラ」を発売</title>
-      <link>https://qui.tokyo/news/261009-bvlgari</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/261009-bvlgari</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ユニセックスブランドUNDECORATEDが手掛けるプロジェクトが中目黒に集結、2日間限定の合同エキシビションを開催</title>
-      <link>https://qui.tokyo/news/2610-undecorated-to-undecorated-nakameguro</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-undecorated-to-undecorated-nakameguro</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>五感で秋を味わう没入型イベント「UGG SEASON ポップアップイベント」が神宮前で開催！限定ブーツ型ケーキやカスタマイズ体験も</title>
-      <link>https://qui.tokyo/news/2610-ugg-born-to-feel</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-ugg-born-to-feel</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京ミッドタウン「TOKYO MIDTOWN DESIGN LIVE 2026」開催、19組のクリエイターが“みつめる”をテーマに集結</title>
-      <link>https://qui.tokyo/news/2610-tokyo-midtown-design-live-2026</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-tokyo-midtown-design-live-2026</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>mister it.の26FWコレクション ポップアップが伊勢丹新宿店で開催、デザイナーによるカスタムイベントも</title>
-      <link>https://qui.tokyo/news/2610-misterit-26fwcollectionpopup-restyle</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-misterit-26fwcollectionpopup-restyle</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JIL SANDERのアイコンバッグと最新コレクションが集結、3都市でポップアップ開催</title>
-      <link>https://qui.tokyo/news/2610-jil-sander-jil-sander-icon</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-jil-sander-jil-sander-icon</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elise Gettliffe（エリス・ゲトリフ）が約2年ぶりの個展「One Way In, Other Ways Out」、信楽で制作した新作を発表</title>
-      <link>https://qui.tokyo/news/2610-elise-gettliffe-one-way-in-other-way-out</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-elise-gettliffe-one-way-in-other-way-out</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Baccarat、ホリデーシーズンと新年を彩る「ホリデーコレクション」が登場</title>
-      <link>https://qui.tokyo/news/2610-baccarat-holidaycollection2026</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-baccarat-holidaycollection2026</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MODELS</title>
       <link>https://qui.tokyo/models</link>
       <guid isPermaLink="true">https://qui.tokyo/models</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JULIE KEGELS 2027年春夏コレクション —— 重圧を重力へ、落ちる服から新たな形を探る</title>
+      <link>https://qui.tokyo/fashion/julie-kegel-2027ss-collection-report</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/julie-kegel-2027ss-collection-report</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CREATOR</title>
       <link>https://qui.tokyo/creator</link>
       <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VANSONとFAFがコラボレーション、BONESモチーフを再構築したカプセルコレクションを発売 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/261009-vanson-faf</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/261009-vanson-faf</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BVLGARI、数量限定の新作フレグランス「バチアーミ アンコーラ」を発売 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/261009-bvlgari</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/261009-bvlgari</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vans × Atiba Jefferson「United Through Skateboarding Collection 2.0」が10/9（金）より発売</title>
+      <link>https://qui.tokyo/news/2610-vans-atiba-jefferson</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-vans-atiba-jefferson</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ユニセックスブランドUNDECORATEDが手掛けるプロジェクトが中目黒に集結、2日間限定の合同エキシビションを開催 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-undecorated-to-undecorated-nakameguro</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-undecorated-to-undecorated-nakameguro</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>五感で秋を味わう没入型イベント「UGG SEASON ポップアップイベント」が神宮前で開催！限定ブーツ型ケーキやカスタマイズ体験も Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-ugg-born-to-feel</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-ugg-born-to-feel</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tomo&amp;Co × REGAL Shoe &amp; Co.のコラボレーションライン「Tomo &amp; Shoe &amp; Co.」が発売、4都市ツアーが10/3（土）より順次開催</title>
+      <link>https://qui.tokyo/news/2610-tomoco-x-regal-shoe-co</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-tomoco-x-regal-shoe-co</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京ミッドタウン「TOKYO MIDTOWN DESIGN LIVE 2026」開催、19組のクリエイターが“みつめる”をテーマに集結 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-tokyo-midtown-design-live-2026</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-tokyo-midtown-design-live-2026</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TAIONがブランド設立10周年を記念したポップアップイベントを名古屋で開催、2026年秋冬コレクションを展開</title>
+      <link>https://qui.tokyo/news/2610-taion-popup</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-taion-popup</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOSHIOTSUKI × CAMISAS MANOLOのコラボレーションシャツ2型が10/10（土）より発売 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-soshiotsuki-camisas-manolo</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-soshiotsuki-camisas-manolo</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOREL × Ariesのコラボ第2弾「Daystorm Chukka」が10/9（金）より発売</title>
+      <link>https://qui.tokyo/news/2610-sorel-x-aries</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-sorel-x-aries</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mister it.の26FWコレクション ポップアップが伊勢丹新宿店で開催、デザイナーによるカスタムイベントも Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-misterit-26fwcollectionpopup-restyle</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-misterit-26fwcollectionpopup-restyle</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MASTERMIND WORLD × VANSON Leathers、コラボレーションコレクション第1弾を10/10（土）に発売</title>
+      <link>https://qui.tokyo/news/2610-mastermind-world-vanson-leathers</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-mastermind-world-vanson-leathers</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAHŌ Sensoryが日本初のポップアップを開催、新作インセンス「The Dunes」を含む全7種の香りを紹介 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-maho-sensory-popup</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-maho-sensory-popup</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JUNYA WATANABE MAN × New Balanceのコラボレーションモデル「P400」が10/16（金）より発売 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-junya-watanabe-man-new-balance-p400</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-junya-watanabe-man-new-balance-p400</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JIL SANDERのアイコンバッグと最新コレクションが集結、3都市でポップアップ開催 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-jil-sander-jil-sander-icon</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-jil-sander-jil-sander-icon</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GraphpaperとSANMONTがコラボレーション、ウール素材のワークジャケットとベルテッドパンツが10/10（土）発売</title>
+      <link>https://qui.tokyo/news/2610-graphpaper-sanmont</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-graphpaper-sanmont</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elise Gettliffe（エリス・ゲトリフ）が約2年ぶりの個展「One Way In, Other Ways Out」、信楽で制作した新作を発表 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-elise-gettliffe-one-way-in-other-way-out</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-elise-gettliffe-one-way-in-other-way-out</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>doublet × POTR、両A面がコンセプトの限定アイテムを10/10（土）発売</title>
+      <link>https://qui.tokyo/news/2610-doublet-potr</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-doublet-potr</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baccarat、ホリデーシーズンと新年を彩る「ホリデーコレクション」が登場 Oct 9, 2026</title>
+      <link>https://qui.tokyo/news/2610-baccarat-holidaycollection2026</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-baccarat-holidaycollection2026</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>adidas Originals、2027年秋冬シーズンの「adidas Originals Classics」コレクションの展開開始</title>
+      <link>https://qui.tokyo/news/2610-adidas-originals</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-adidas-originals</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>バーニーズ ニューヨークで出会う、もうつくられない素材から生まれた ssstein の新たな服</title>
+      <link>https://qui.tokyo/fashion/barneys-ssstein-capsule-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/barneys-ssstein-capsule-collection</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>今しか体験できない。10月に開催される、注目イベント＆ポップアップ Oct 9, 2026</title>
+      <link>https://qui.tokyo/fashion/2610-popup</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/2610-popup</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -115,97 +211,25 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection 032c 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/032c-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/032c-2027ss-collection-runway</guid>
+      <title>Collection CCU 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/ccu-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/ccu-2026aw-collection</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOUTH2 WEST8 × Columbiaのコラボレーションプロダクト全6型が10/9（金）発売 本コレクションは、両ブランドが共有するフィッシングカルチャーを背景に、＜SOUTH2 WEST8＞のデザインアプローチと、Columbia PFG（Performance Fishing Gear）が</title>
-      <link>https://qui.tokyo/news/261009-south2-west8-x-columbia</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/261009-south2-west8-x-columbia</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YUEQI QIがMaison Margiela「Anonymity」プロジェクトに参加、「Fleurs Sans Visage」を制作 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/261008-yueqi-qi-maison-margiela</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/261008-yueqi-qi-maison-margiela</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VERSACEが阪急うめだ本店を10/9（金）よりリニューアルオープン</title>
+      <title>VERSACEが阪急うめだ本店を10/9（金）よりリニューアルオープン Oct 8, 2026</title>
       <link>https://qui.tokyo/news/2610-versace-hankyu-umeda</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-versace-hankyu-umeda</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>PUMA × MASU、カプセルコレクション第3弾を10/12（月）に発売 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-puma-masu</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-puma-masu</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>nonnative、the nonnative shopとCOVERCHORD限定アイテムを10/10（土）に発売 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-nonnative-limited-edition</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-nonnative-limited-edition</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigel CabournのBIOGRAPHY BOOKが装いを新たに10/10（土）発売、4店舗でメモリアルイベントを開催 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-nigel-cabourn-biography-book</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-nigel-cabourn-biography-book</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Levi&#x27;s® meets HERALBONY、京都で期間限定ポップアップを開催 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-levis-meets-heralbony</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-levis-meets-heralbony</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KIMMYが渋谷パルコ ADAM ET ROPÉでポップアップを開催 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-kimmy-shibuya-parco-adam-et-rope-popup</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-kimmy-shibuya-parco-adam-et-rope-popup</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ISSEY MIYAKE WATCHからTodd Bracherデザインの新作機械式腕時計「TL」が登場 Oct 8, 2026</title>
+      <title>ISSEY MIYAKE WATCHからTodd Bracherデザインの新作機械式腕時計「TL」が登場 「TL」は、Todd Bracherが長年にわたりイッセイ ミヤケのデザイン思想と向き合う中で着想を得た時計。正確な時刻を示すだけでなく、「時間」という普遍的な存在そのものを見つめ直すこと</title>
       <link>https://qui.tokyo/news/2610-issey-miyake-watch-todd-bracher</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-issey-miyake-watch-todd-bracher</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GUCCI、新作ハンドバッグライン「スターレット」を発売 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-gucci-starlet</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-gucci-starlet</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FREITAGが「FREITAG REFERENCE」を再構築、アップサイクル素材を使用した4型のバッグを10/8（木）に発売 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-freitag-reference</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-freitag-reference</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>モードの悲劇、BREATH BY DELTAでショップ・イン・ショップを10/10（土）から開催 Oct 8, 2026</title>
-      <link>https://qui.tokyo/news/2610-breath-by-delta</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-breath-by-delta</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「テート美術館 ターナー展――崇高の絵画、現代美術との対話」10/24（土）開幕 光と大気の先に広がるターナーの現在地 Oct 8, 2026</title>
+      <title>「テート美術館 ターナー展――崇高の絵画、現代美術との対話」10/24（土）開幕 光と大気の先に広がるターナーの現在地 J.M.W. ターナー（1775－1851）は、移ろう光や大気、荒れ狂う海と空、産業革命期に立ち現れた蒸気や煤煙まで、一定のかたちにとどまらない世界を描き続けた英国ロマン主義を代表する画家だ。その表現</title>
       <link>https://qui.tokyo/news/26-09-turner-painting-the-sublime</link>
       <guid isPermaLink="true">https://qui.tokyo/news/26-09-turner-painting-the-sublime</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
@@ -217,13 +241,13 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Matières Fécalesのショー会場スナップ | おしゃれ賢者の着こなし術 Oct 8, 2026</title>
+      <title>Matières Fécalesのショー会場スナップ | おしゃれ賢者の着こなし術 Oct 08, 2026</title>
       <link>https://qui.tokyo/fashion/2610-matieres-fecales-snap</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/2610-matieres-fecales-snap</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>プロに訊くフレグランスの魅力の紐解き方｜Atelier Macri Commons 清水陽斗 Oct 8, 2026</title>
+      <title>プロに訊くフレグランスの魅力の紐解き方｜Atelier Macri Commons 清水陽斗 Oct 08, 2026</title>
       <link>https://qui.tokyo/beauty/fragrance-atelier-macri-commons</link>
       <guid isPermaLink="true">https://qui.tokyo/beauty/fragrance-atelier-macri-commons</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
@@ -233,18 +257,6 @@
       <link>https://qui.tokyo/art-design/2610-sonic-the-exhibition-across-generations-ikebukuro-parco</link>
       <guid isPermaLink="true">https://qui.tokyo/art-design/2610-sonic-the-exhibition-across-generations-ikebukuro-parco</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SILAS AW26「THIS IS HARDCORE」のポップアップが原宿・大阪・京都で開催 ＜SILAS＞のAW26のコンセプトとなったのは、Pulpの楽曲「This Is Hardcore」。2025年より＜SILAS＞のクリエイティブディレクターを務めるTaro Rayが、2000年代に</title>
-      <link>https://qui.tokyo/news/2610-silas-aw26-this-is-hardcore-popup</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-silas-aw26-this-is-hardcore-popup</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HOMME PLISSÉ ISSEY MIYAKE、テート・モダンで二度目のOPEN STUDIOを発表 今回の「OPEN STUDIO」は、アンリ・マティス（Henri Matisse）の『かたつむり』（『The Snail』1953年）を創造の源とし、同作に着想を得たカプセルコレクションとダンスパフォ</title>
-      <link>https://qui.tokyo/news/2610-homme-plisse-issey-miyake-open-studio</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-homme-plisse-issey-miyake-open-studio</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>バイヤーに訊くオーセンティックを軸にしたミックススタイル｜阪急メンズ「3rd STYLE（サードスタイル）」 Oct 07, 2026</title>
@@ -293,18 +305,6 @@
       <link>https://qui.tokyo/art-design/p-o-n-d-2026-re-sort</link>
       <guid isPermaLink="true">https://qui.tokyo/art-design/p-o-n-d-2026-re-sort</guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>英国のアイコンと写真家をたどる「Icons and Image Makers ナショナル ポートレート ギャラリー展」、シャネル・ネクサス・ホールで開催 Oct 04, 2026</title>
-      <link>https://qui.tokyo/art-design/2610-icons-and-image-makers</link>
-      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-icons-and-image-makers</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「マリメッコ展 模様のちから」東京都庭園美術館で開催、60点超のドレスとプリントメイキングの創造に迫る Oct 03, 2026</title>
-      <link>https://qui.tokyo/art-design/2610-marimekko-teienartmuseum</link>
-      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-marimekko-teienartmuseum</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
