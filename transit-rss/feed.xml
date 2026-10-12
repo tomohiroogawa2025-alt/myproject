@@ -5,7 +5,7 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 01:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:24:00 +0000</lastBuildDate>
     <item>
       <title>いざ「前橋国際芸術祭」へ！ 徒歩圏内で旅する芸術祭。石川直樹、吉開菜央、和田彩花等の群馬を映す作品も</title>
       <link>https://transit.jp/article/gunma/maebashi-biennale-2026_report</link>
@@ -19,28 +19,16 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>News｜「マリメッコ展 模様のちから」 フィンランドで生まれの〈マリメッコ〉が 時代を越えて愛される秘密に迫る</title>
-      <link>https://transit.jp/article/finland/news_marimekko-exhibition-2026</link>
-      <guid isPermaLink="true">https://transit.jp/article/finland/news_marimekko-exhibition-2026</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>News｜無意識が手繰り寄せる、写真と記憶の新たな関係。 写真家・竹之内祐幸の個展「SLEEPWALK」が11/13まで開催中</title>
       <link>https://transit.jp/article/tokyo/news_hiroyuki-takenouchi-2026</link>
       <guid isPermaLink="true">https://transit.jp/article/tokyo/news_hiroyuki-takenouchi-2026</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Editor&#x27;s Pick｜『プーチンの愛国教室』 教師が命懸けで記録。ロシアの学校で進む、愛国教育の実情</title>
-      <link>https://transit.jp/article/russian/editorspick_mr-nobody-against-putin</link>
-      <guid isPermaLink="true">https://transit.jp/article/russian/editorspick_mr-nobody-against-putin</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TRANSIT定期購読のちょっといい話！ 限定オリジナルステッカーシートをプレゼント！</title>
-      <link>https://transit.jp/article/theme/subscribe</link>
-      <guid isPermaLink="true">https://transit.jp/article/theme/subscribe</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <title>News｜「ハンセン病療養所のなかの 『外国人』展」 隔離を強いられた療養所で外国人はどう生きたのか？</title>
+      <link>https://transit.jp/article/japan/hansen-exhibition</link>
+      <guid isPermaLink="true">https://transit.jp/article/japan/hansen-exhibition</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
