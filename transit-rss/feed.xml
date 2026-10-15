@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:34:37 +0000</lastBuildDate>
+    <item>
+      <title>映画『進行曲 マーチングボーイズ』 ジャン・ルイジー監督インタビュー 戒厳令が解かれた90年代の台湾で、 青春×音楽×スポ根で「自由」をうたう</title>
+      <link>https://transit.jp/article/taiwan/marchingboys</link>
+      <guid isPermaLink="true">https://transit.jp/article/taiwan/marchingboys</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>News｜「THE NORTH FACEとは、何者か?」 創業60周年記念展「NEVER STOP EXPLORING EXHIBITION」 東京・北青山で10/31まで開催中</title>
       <link>https://transit.jp/article/tokyo/news_neverstop-exploring-exhibition</link>
@@ -17,18 +23,6 @@
       <link>https://transit.jp/article/gunma/maebashi-biennale-2026_report</link>
       <guid isPermaLink="true">https://transit.jp/article/gunma/maebashi-biennale-2026_report</guid>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜無意識が手繰り寄せる、写真と記憶の新たな関係。 写真家・竹之内祐幸の個展「SLEEPWALK」が11/13まで開催中</title>
-      <link>https://transit.jp/article/tokyo/news_hiroyuki-takenouchi-2026</link>
-      <guid isPermaLink="true">https://transit.jp/article/tokyo/news_hiroyuki-takenouchi-2026</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜「ハンセン病療養所のなかの 『外国人』展」 隔離を強いられた療養所で外国人はどう生きたのか？</title>
-      <link>https://transit.jp/article/japan/hansen-exhibition</link>
-      <guid isPermaLink="true">https://transit.jp/article/japan/hansen-exhibition</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
