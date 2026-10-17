@@ -5,7 +5,7 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:43:41 +0000</lastBuildDate>
     <item>
       <title>恵比寿LIQUIDROOMに出るのは誰？ 『APPLE VINEGAR』イベントが来年も開催</title>
       <link>https://niewmedia.com/news/2610avma/</link>
@@ -17,12 +17,6 @@
       <link>https://niewmedia.com/news/2610hamidashi-fes/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610hamidashi-fes/</guid>
       <pubDate>Sat, 06 Feb 2027 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ジョー・キーリー出演『アンダー・ストレージ／未知なる脅威』本予告編＆場面写真公開</title>
-      <link>https://niewmedia.com/news/2610understorage/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610understorage/</guid>
-      <pubDate>Fri, 15 Jan 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>サニーデイ・サービスの本気を体感、4時間に及ぶ熱狂のワンマンライブ全編公開</title>
@@ -37,33 +31,39 @@
       <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>キルハトッテの舞台『そろそろダンス。』が再創作上演、アイドルの卒業と人生描く</title>
-      <link>https://niewmedia.com/news/2610kiruhatotte/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610kiruhatotte/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>吉岡里帆ら登壇、『第36回映画祭TAMA CINEMA FORUM』プログラム第1弾発表</title>
       <link>https://niewmedia.com/news/2610tamaeiga/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610tamaeiga/</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>メインコンテンツまでスキップ</title>
-      <link>https://niewmedia.com/news/#main-content</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <title>若手アーティスト12名がプレゼン＆展示、『TAAP』第3期の成果発表が開催決定</title>
+      <link>https://niewmedia.com/news/2610taaplive/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610taaplive/</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>注意と時間を取り戻す、田中功起の個展『時間がない（ときに眠ること）』が京都で開催</title>
-      <link>https://niewmedia.com/news/2610tanaka-koki/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610tanaka-koki/</guid>
+      <title>相葉雅紀×原作者・平山讓の特別映像「4アウト講座」公開、スポーツ庁とタイアップも</title>
+      <link>https://niewmedia.com/news/2610fourout-kouza/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610fourout-kouza/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>鳥の声を録る78分が、なぜ共感を集めるのか？ 映画『鳥を導く』と「非効率な時間」</title>
       <link>https://niewmedia.com/news/2610toriwomichibiku_nclm/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610toriwomichibiku_nclm/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ヒカリエデッキが小さな森に、長谷川仁の展示『渋谷 to 森』開催</title>
+      <link>https://niewmedia.com/news/2610shibuya-to-mori/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610shibuya-to-mori/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>メインコンテンツまでスキップ</title>
+      <link>https://niewmedia.com/news/#main-content</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -85,10 +85,22 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>くによし組の舞台『粉瘤』、耳にできた喋る粉瘤に怒りをぶつける女性の日常描く</title>
-      <link>https://niewmedia.com/news/2610kuniyoshigumi/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610kuniyoshigumi/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <title>『TAMATAMA FESTIVAL 2026』第1弾で三浦透子、YOGEE NEW WAVES、Nikoんら NiEW編集部</title>
+      <link>https://niewmedia.com/news/2608tamatama1dan/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608tamatama1dan/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>『TAMATAMA FESTIVAL 2026』第2弾に堀込泰行、Hedigan’s。日割りも発表 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2608tamafes2/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608tamafes2/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas 3000×クアトロのイベント『ROUND HORSE MATSURI』にカネコアヤノ、Qiezi Maboが出演 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2608round-horse-matsuri/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2608round-horse-matsuri/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>UA、曽我部恵一、向井秀徳ら出演。音楽×温泉の音楽祭『small circle ’26』が別府で開催 NiEW編集部</title>
@@ -113,6 +125,24 @@
       <link>https://niewmedia.com/news/2604asian-kung-fu-generation/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2604asian-kung-fu-generation/</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>やくしまるえつこのシングル“COSMOS vs ALIEN”がサブスク解禁、MVも公開</title>
+      <link>https://niewmedia.com/news/2610yakushimaruetsuko/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610yakushimaruetsuko/</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>仲野太賀、『豊臣兄弟！』撮影の記録を収めた写真集『大河』を12月に発売決定</title>
+      <link>https://niewmedia.com/news/2610taiga/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610taiga/</guid>
+      <pubDate>Fri, 16 Oct 2026 13:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>サンダーキャットがアニメ主題歌をカバー、NHK Eテレ『The Wakey Show』出演</title>
+      <link>https://niewmedia.com/news/2610thundercat/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610thundercat/</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ゆうめい初の海外公演、音楽劇『あわせて』を韓国ソウルで上演 NiEW編集部</title>
@@ -149,36 +179,6 @@
       <link>https://niewmedia.com/news/2610monta-docomo/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610monta-docomo/</guid>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>1ステージ約60分の短編演劇祭『新宿駅前演劇フェスティバル』、全20団体が出演 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2609seefes/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2609seefes/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>マスキングテープを引き剥がして描く現代社会、大久保紗也の個展『遠くの痛点』 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2609cadan/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2609cadan/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>コンプソンズ10周年公演『善人はなかなかいないっぽい』、平田敦子や村田寛奈ら出演 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2608compsons/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608compsons/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中島歩が『あさイチ』プレミアムトークに登場、松山ケンイチ＆黒田大輔が素顔を明かす</title>
-      <link>https://niewmedia.com/news/2610nakajima-ayumu/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610nakajima-ayumu/</guid>
-      <pubDate>Wed, 14 Oct 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>梅井美咲が新曲で海老原颯の生ドラムをサンプリング、“doodle spring”配信リリース</title>
-      <link>https://niewmedia.com/news/2610misakiumei/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610misakiumei/</guid>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
