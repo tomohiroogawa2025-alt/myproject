@@ -5,24 +5,96 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 01:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:58:00 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「DESIGNART TOKYO 2026」10/30（金）開幕、旧東京高速道路を舞台に世界13カ国のデザインとアートが交差</title>
+      <link>https://qui.tokyo/news/2610-designart-tokyo-2026</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-designart-tokyo-2026</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロンドン・ファッションウィーク 2027年春夏、ストリートの今を映すスナップ＆インタビュー Vol.2 | おしゃれ賢者の着こなし術</title>
+      <link>https://qui.tokyo/fashion/lfw-ss27-streetsnap-vol2</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/lfw-ss27-streetsnap-vol2</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ロンドン・ファッションウィーク 2027年春夏、ストリートの今を映すスナップ＆インタビュー Vol.1 | おしゃれ賢者の着こなし術</title>
+      <link>https://qui.tokyo/fashion/lfw-ss27-streetsnap-vol1</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/lfw-ss27-streetsnap-vol1</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection sacai 2027SS WOMEN’S COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MIU MIU 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection LOEWE 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/loewe-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/loewe-2027ss-collection-runway</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection CELINE 2027 SUMMER COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/celine-2027summer-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/celine-2027summer-collection-runway</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection agnès b. 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SNOW GOOSE BY CANADA GOOSE、ハイダー・アッカーマンによる2026年秋冬コレクションを10/17（土）より順次発売 Oct 16, 2026</title>
@@ -37,7 +109,7 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nike x NIGO x j-hopeのコラボレーションによる新作エア フォース 1が登場、10/17（土）より先行発売</title>
+      <title>Nike x NIGO x j-hopeのコラボレーションによる新作エア フォース 1が登場、10/17（土）より先行発売 Oct 16, 2026</title>
       <link>https://qui.tokyo/news/2610-nike-nigo-j-hope</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-nike-nigo-j-hope</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
@@ -97,19 +169,13 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ALPINESTARS RSRVが日本初のポップアップをNUBIAN HARAJUKUで開催</title>
+      <title>ALPINESTARS RSRVが日本初のポップアップをNUBIAN HARAJUKUで開催 Oct 16, 2026</title>
       <link>https://qui.tokyo/news/2610-alpinestars-rsrv-nubian-harajuku</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-alpinestars-rsrv-nubian-harajuku</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>阪急メンズ東京15周年企画｜SHOES FAIR担当者が語る一足のシューズから広がる世界</title>
+      <title>阪急メンズ東京15周年企画｜SHOES FAIR担当者が語る一足のシューズから広がる世界 Oct 16, 2026</title>
       <link>https://qui.tokyo/fashion/hankyu-mens-15th-shoes-fair</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/hankyu-mens-15th-shoes-fair</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
@@ -127,55 +193,7 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection sacai 2027SS WOMEN’S COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection MIU MIU 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection LOEWE 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/loewe-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/loewe-2027ss-collection-runway</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection CELINE 2027 SUMMER COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/celine-2027summer-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/celine-2027summer-collection-runway</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection agnès b. 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vyraoから新作フレグランス「Ever 11」が登場、10/14（水）より発売 Oct 15, 2026</title>
+      <title>Vyraoから新作フレグランス「Ever 11」が登場、10/14（水）より発売 ＜Vyrao＞は、Yasmin Sewell（ヤスミン・スウェル）が2021年にロンドンで創業したウェルビーイングブランド。代替療法をルーツとするマスターパフューマリーと、ネガティブなエネルギーを浄化</title>
       <link>https://qui.tokyo/news/2610-vyrao-ever-11</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-vyrao-ever-11</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
@@ -187,13 +205,7 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Topologieが2026年秋冬コレクション第二弾を発売、バックパックとストラップの新シリーズが登場 今回のコレクションでは、バッグとストラップを自由に組み合わせられる「Wares System™」をバックパックカテゴリーに拡大。バックパック本体とショルダーストラップをそれぞれ選択できる仕様となってい</title>
-      <link>https://qui.tokyo/news/2610-topologie</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-topologie</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PUMAが「PROJECT PUMA PLUS.」の2026年秋冬コレクションを発表、K-STREET MA NUBACKを含むアイテムを10/16（金）より発売 Oct 15, 2026</title>
+      <title>PUMAが「PROJECT PUMA PLUS.」の2026年秋冬コレクションを発表、K-STREET MA NUBACKを含むアイテムを10/16（金）より発売 2026年春夏シーズンにローンチした「PROJECT PUMA PLUS.」は、「機能美をまとう」をコンセプトに、＜PUMA＞が培ってきたスポーツの機能性に現代的なデザインを重ね、都市生活に向けたワー</title>
       <link>https://qui.tokyo/news/2610-puma-project-puma-plus</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-puma-project-puma-plus</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
@@ -293,18 +305,6 @@
       <link>https://qui.tokyo/art-design/2610-seeds-and-roots</link>
       <guid isPermaLink="true">https://qui.tokyo/art-design/2610-seeds-and-roots</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JULIE KEGELS 2027年春夏コレクション —— 重圧を重力へ、落ちる服から新たな形を探る Oct 10, 2026</title>
-      <link>https://qui.tokyo/fashion/julie-kegel-2027ss-collection-report</link>
-      <guid isPermaLink="true">https://qui.tokyo/fashion/julie-kegel-2027ss-collection-report</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>バーニーズ ニューヨークで出会う、もうつくられない素材から生まれた ssstein の新たな服 Oct 09, 2026</title>
-      <link>https://qui.tokyo/fashion/barneys-ssstein-capsule-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/fashion/barneys-ssstein-capsule-collection</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
