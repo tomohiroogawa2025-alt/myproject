@@ -5,35 +5,59 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:09:33 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「DESIGNART TOKYO 2026」10/30（金）開幕、旧東京高速道路を舞台に世界13カ国のデザインとアートが交差</title>
-      <link>https://qui.tokyo/news/2610-designart-tokyo-2026</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-designart-tokyo-2026</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MODELS</title>
       <link>https://qui.tokyo/models</link>
       <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「自分だけの答え」の“前”にあるもの｜『感性の教室』で広げるアートのミカタ</title>
+      <link>https://qui.tokyo/art-design/artnomikata_special-edition</link>
+      <guid isPermaLink="true">https://qui.tokyo/art-design/artnomikata_special-edition</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「DESIGNART TOKYO 2026」10/30（金）開幕、旧東京高速道路を舞台に世界13カ国のデザインとアートが交差</title>
+      <link>https://qui.tokyo/news/2610-designart-tokyo-2026</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-designart-tokyo-2026</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,12 +70,6 @@
       <title>ロンドン・ファッションウィーク 2027年春夏、ストリートの今を映すスナップ＆インタビュー Vol.1 | おしゃれ賢者の着こなし術</title>
       <link>https://qui.tokyo/fashion/lfw-ss27-streetsnap-vol1</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/lfw-ss27-streetsnap-vol1</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -82,18 +100,6 @@
       <title>Collection agnès b. 2027SS COLLECTION RUNWAY</title>
       <link>https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</link>
       <guid isPermaLink="true">https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -187,7 +193,7 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>2027春夏ウィメンズトレンド総まとめ｜ランウェイルックから読み解く6つのテーマ</title>
+      <title>2027春夏ウィメンズトレンド総まとめ｜ランウェイルックから読み解く6つのテーマ Oct 16, 2026</title>
       <link>https://qui.tokyo/fashion/2027ss-womens-trend-runway-look</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/2027ss-womens-trend-runway-look</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
@@ -299,12 +305,6 @@
       <link>https://qui.tokyo/fashion/2610-maison-margiela-snap</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/2610-maison-margiela-snap</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京オペラシティ アートギャラリーで「種と根っこ ─ 都市の耕し方」開催、10名の作家が都市と自然の関係を捉え直す Oct 11, 2026</title>
-      <link>https://qui.tokyo/art-design/2610-seeds-and-roots</link>
-      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-seeds-and-roots</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
