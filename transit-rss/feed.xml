@@ -5,7 +5,7 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:40:27 +0000</lastBuildDate>
     <item>
       <title>News｜「第39回東京国際映画祭」 上映ラインナップが決定！ その見どころは？</title>
       <link>https://transit.jp/article/tokyo/news_tokyo-international-film-festival-2026</link>
@@ -31,10 +31,10 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>いざ「前橋国際芸術祭」へ！ 徒歩圏内で旅する芸術祭。石川直樹、吉開菜央、和田彩花等の群馬を映す作品も</title>
-      <link>https://transit.jp/article/gunma/maebashi-biennale-2026_report</link>
-      <guid isPermaLink="true">https://transit.jp/article/gunma/maebashi-biennale-2026_report</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <title>特集｜平和への旅 塚本晋也監督インタビュー。映画『ネルソンさん、あなたは人を殺しましたか?』ができるまで。加害者からみた戦争の景色</title>
+      <link>https://transit.jp/article/vietnam/tsukamotoshinya_interview_movie_nelson</link>
+      <guid isPermaLink="true">https://transit.jp/article/vietnam/tsukamotoshinya_interview_movie_nelson</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
