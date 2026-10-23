@@ -5,41 +5,131 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:26:39 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NAMACHEKOのアーカイブイベント第2弾「NAMACHEKO THE ARCHIVES」がTHE ELEPHANTで開催、10/23（金）より東京・大阪で順次展開</title>
+      <title>Ryohu、in-dらが出演、虎ノ門を舞台に食と音楽を楽しむ「SURROUND TORAMARU」第2回を開催</title>
+      <link>https://qui.tokyo/news/2610-ryohu-in-d-toranomon-hills</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-ryohu-in-d-toranomon-hills</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KHOKIがDover Street Market Ginza別注ジャケットを発売、10/24（土）のオープンハウスにて展開</title>
+      <link>https://qui.tokyo/news/2610-khoki-dover-street-market-ginza</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-khoki-dover-street-market-ginza</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新ブランドALL ABOUT NOIRSが始動、ファーストコレクション「CUT 01: URBAN EXOSKELETON」を発表</title>
+      <link>https://qui.tokyo/news/2610-all-about-noirs-cut-01-urban-exoskeleton</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-all-about-noirs-cut-01-urban-exoskeleton</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection sacai 2027SS WOMEN’S COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection någonstans 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/nagonstans-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/nagonstans-2027ss-collection</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MIU MIU 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MIKIOSAKABE 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection agnès b. 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAMACHEKOのアーカイブイベント第2弾「NAMACHEKO THE ARCHIVES」がTHE ELEPHANTで開催、10/23（金）より東京・大阪で順次展開 Oct 22, 2026</title>
       <link>https://qui.tokyo/news/261022-namacheko</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261022-namacheko</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>adidas Originalsとファレル・ウィリアムスによる「VIRGINIA ADISTAR JELLYFISH」新色2モデルが10/24（土）発売</title>
+      <title>adidas Originalsとファレル・ウィリアムスによる「VIRGINIA ADISTAR JELLYFISH」新色2モデルが10/24（土）発売 Oct 22, 2026</title>
       <link>https://qui.tokyo/news/261022-adidas-originals</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261022-adidas-originals</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MACKINTOSHとADAM ET ROPÉの26AW別注第二弾「STORNOWAY EX」が、10/24（土）に発売</title>
+      <title>マルニ木工とLE KLINTが初の共同イベントを開催、家具と照明が調和する住空間を提案</title>
+      <link>https://qui.tokyo/news/2610-marni-le-klint-event</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-marni-le-klint-event</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MACKINTOSHとADAM ET ROPÉの26AW別注第二弾「STORNOWAY EX」が、10/24（土）に発売 Oct 22, 2026</title>
       <link>https://qui.tokyo/news/2610-mackintosh-adam-et-rope</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-mackintosh-adam-et-rope</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IXC、ヴィコ・マジストレッティによるラウンジチェア「OZU」を日本初披露</title>
+      <link>https://qui.tokyo/news/2610-ixc-ozu</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-ixc-ozu</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GraphpaperとDESCENTEによる全8型のカプセルコレクションが10/24（土）発売</title>
+      <link>https://qui.tokyo/news/2610-graphpaper-descente</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-graphpaper-descente</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -49,67 +139,31 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <title>韓国発ブランド MUKHAが日本初の単独ポップアップを原宿で開催、2026年秋冬コレクションを展開</title>
+      <link>https://qui.tokyo/news/2010-mukha-popup-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2010-mukha-popup-2026aw-collection</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <title>Rick Owensのショー会場スナップ | おしゃれ賢者の着こなし術</title>
+      <link>https://qui.tokyo/fashion/2610-rick-owens-snap</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/2610-rick-owens-snap</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection sacai 2027SS WOMEN’S COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/sacai-2027ss-womens-collection-runway</guid>
+      <title>不安に「かたち」を与えた男、エドヴァルド・ムンク｜今月の画家紹介 vol.33</title>
+      <link>https://qui.tokyo/art-design/edvard-munch</link>
+      <guid isPermaLink="true">https://qui.tokyo/art-design/edvard-munch</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection någonstans 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/nagonstans-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/nagonstans-2027ss-collection</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection MIU MIU 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/miu-miu-2027ss-collection-runway</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection MIKIOSAKABE 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection agnès b. 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/agnes-b-2027ss-collection-runway</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PAÑPURIがGINZA SIXに新店舗をオープン、庭園をテーマにした空間と香りの体験を展開</title>
+      <title>PAÑPURIがGINZA SIXに新店舗をオープン、庭園をテーマにした空間と香りの体験を展開 Oct 21, 2026</title>
       <link>https://qui.tokyo/news/261021-panpuri-ginza-six</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261021-panpuri-ginza-six</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MOYNATがストーム・パブロとマーヴィン・ダグラスとのコラボレーションコレクション「HOTEL MOYNAT」を発表</title>
+      <title>MOYNATがストーム・パブロとマーヴィン・ダグラスとのコラボレーションコレクション「HOTEL MOYNAT」を発表 Oct 21, 2026</title>
       <link>https://qui.tokyo/news/261021-moynat</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261021-moynat</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
@@ -121,7 +175,7 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CINOHが2026年秋冬コレクションのポップアップを代官山で開催、10/24（土）より2日間限定</title>
+      <title>CINOHが2026年秋冬コレクションのポップアップを代官山で開催、10/24（土）より2日間限定 Oct 21, 2026</title>
       <link>https://qui.tokyo/news/261021-cinoh</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261021-cinoh</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
@@ -133,31 +187,31 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>国立新美術館で「少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀 三人展」、三作家の約60年をたどる Oct 21, 2026</title>
+      <title>国立新美術館で「少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀 三人展」、三作家の約60年をたどる 本展では、内面の揺らぎや他者との関係、女性の自立、多様な性のあり方、歴史や文化への眼差し、異なる世界への想像力といった主題に加え、重層的なレイアウトをはじめとする漫画表現の広がりを紹介。「インフィニテ</title>
       <link>https://qui.tokyo/news/2610-syojomanga-infinity</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-syojomanga-infinity</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Paul SmithとFenderが初のコラボレーション、アパレルや日本製Telecasterを10/21（水）より発売</title>
+      <title>Paul SmithとFenderが初のコラボレーション、アパレルや日本製Telecasterを10/21（水）より発売 Oct 21, 2026</title>
       <link>https://qui.tokyo/news/2610-paul-smith-fender</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-paul-smith-fender</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NAMACHEKOがMANHOLEで世界初のメイド・トゥ・メジャーテーラリングサロンを10/24・25に開催</title>
+      <title>NAMACHEKOがMANHOLEで世界初のメイド・トゥ・メジャーテーラリングサロンを10/24・25に開催 Oct 21, 2026</title>
       <link>https://qui.tokyo/news/2610-namacheko-manhole-salon</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-namacheko-manhole-salon</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MYKITAと032cによるコラボレーション第5弾、乗馬競技から着想を得た新作アイウェア「BRANDLEY」を発表</title>
+      <title>MYKITAと032cによるコラボレーション第5弾、乗馬競技から着想を得た新作アイウェア「BRANDLEY」を発表 Oct 21, 2026</title>
       <link>https://qui.tokyo/news/2610-mykita-032c-vol5</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-mykita-032c-vol5</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FRANCESCA VILLAが愛するペットの肖像をジュエリーにする「Being Furry」の特別オーダー会をロンハーマン二子玉川店にて開催 Oct 21, 2026</title>
+      <title>FRANCESCA VILLAが愛するペットの肖像をジュエリーにする「Being Furry」の特別オーダー会をロンハーマン二子玉川店にて開催 注目は、愛するペットの肖像をジュエリーに仕立てるカスタムコレクション「Being Furry（ビーイング・ファーリー）」。ペットの写真をもとに、クリスタルの裏面から職人が肖像を手彫</title>
       <link>https://qui.tokyo/news/2610-francesca-villa-being-ron-herman-futakotamagawa</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-francesca-villa-being-ron-herman-futakotamagawa</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
@@ -179,48 +233,6 @@
       <link>https://qui.tokyo/news/2610-bea-bongiasca</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-bea-bongiasca</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TOGA x Wranglerが8年ぶり2度目のコラボレーション、10/23（金）より全5型を発売 Oct 20, 2026</title>
-      <link>https://qui.tokyo/news/2610-toga-wrangler</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-toga-wrangler</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pomellato、新作ハイジュエリーコレクション「ポメラート スティーレ・リベロ」を1日限定公開 Oct 20, 2026</title>
-      <link>https://qui.tokyo/news/2610-pomellato-stile-libero</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-pomellato-stile-libero</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KIKO KOSTADINOVとCrocsがコラボシューズ「VAALS」を発売、伝統的なディテールとテクニカルなデザインを融合 モカシンを思わせるモックトゥと、存在感のある太いステッチが特徴のアッパーには、独特の粒状感を持つシュリンクレザーと、通気性に優れたメッシュ素材を採用。＜Crocs＞の「Crocband」やアーカイブシ</title>
-      <link>https://qui.tokyo/news/2610-kiko-kostadinov-crocs-vaals</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-kiko-kostadinov-crocs-vaals</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BialettiとDolce&amp;Gabbanaのコラボレーション、レオパード柄のモカ2モデルを日本で発売 Oct 20, 2026</title>
-      <link>https://qui.tokyo/news/2610-bialetti-dolcegabbana</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-bialetti-dolcegabbana</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ANREALAGEが国立駅開業100周年を記念し凱旋ショーを開催 Oct 20, 2026</title>
-      <link>https://qui.tokyo/news/2610-anrealage-kunitachi-100th</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-anrealage-kunitachi-100th</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ANREALAGEがサラ・アンデルマンと手がける「JUST AN REAL AGE by JUST AN IDEA」を10/29（木）原宿にオープン Oct 20, 2026</title>
-      <link>https://qui.tokyo/news/2610-anrealage-just-an-real-age-by-just-an-idea</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-anrealage-just-an-real-age-by-just-an-idea</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acne Studiosとフセイン・チャラヤンが初コラボレーション、アーカイブを再解釈した全12型を展開 Oct 20, 2026</title>
-      <link>https://qui.tokyo/news/2610-acne-studios-hussein-chalayan</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-acne-studios-hussein-chalayan</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CELINEのショー会場スナップ | おしゃれ賢者の着こなし術 Oct 20, 2026</title>
@@ -292,18 +304,6 @@
       <title>adidasとのコラボレーションで密かに話題を集めた、パリ発ブランドANTHONY CALYDON Oct 15, 2026</title>
       <link>https://qui.tokyo/fashion/brand-anthony-calydon</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/brand-anthony-calydon</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>QUI エディターが惹かれた、陶芸家 エリス・ゲトリフの6作品 Oct 15, 2026</title>
-      <link>https://qui.tokyo/art-design/2610-elise-gettliffe-works</link>
-      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-elise-gettliffe-works</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ファッションから陶芸へ、信楽での出会いが生んだもの｜陶芸家 エリス・ゲトリフ Oct 15, 2026</title>
-      <link>https://qui.tokyo/art-design/2610-elise-gettliffe-interview</link>
-      <guid isPermaLink="true">https://qui.tokyo/art-design/2610-elise-gettliffe-interview</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
