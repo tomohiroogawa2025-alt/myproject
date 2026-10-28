@@ -5,17 +5,11 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:36:18 +0000</lastBuildDate>
     <item>
       <title>奥山由之が香川で350点超を展示、公立美術館初の個展で15年以上の軌跡を辿る</title>
       <link>https://niewmedia.com/news/2610okuyamayoshiyuki/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610okuyamayoshiyuki/</guid>
-      <pubDate>Sat, 07 Aug 2027 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>メインコンテンツまでスキップ</title>
-      <link>https://niewmedia.com/news/#main-content</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
       <pubDate>Sat, 07 Aug 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -31,10 +25,16 @@
       <pubDate>Sat, 06 Feb 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bialystocksの4thアルバム『Savanna』リリース決定、ツアー追加公演も発表</title>
-      <link>https://niewmedia.com/news/2610bialystocks/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610bialystocks/</guid>
-      <pubDate>Tue, 22 Dec 2026 00:00:00 +0000</pubDate>
+      <title>せいや原作・大橋和也主演『人生を変えたコント』主題歌は菅田将暉×トータス松本</title>
+      <link>https://niewmedia.com/news/2610jinsei-conte/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610jinsei-conte/</guid>
+      <pubDate>Fri, 18 Dec 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大阪の都市型フェス『UMEKITA SOUND BAZAAR』初開催、中村佳穂ら出演</title>
+      <link>https://niewmedia.com/news/2610umekita-sound-bazaar/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610umekita-sound-bazaar/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>STUTS、すみれら登壇。MUTEK.JPのトークプログラム『しごとの話をしよう。』開催</title>
@@ -43,28 +43,40 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>K-POPの夢に破れた3⼈の卒業旅行、映画『#つよくなるとき』本編映像＆場面写真を公開</title>
-      <link>https://niewmedia.com/news/2610tsuyokunarutoki/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610tsuyokunarutoki/</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>シティボーイの歴史を振り返る、『POPEYE』創刊50周年特別展が開催決定</title>
       <link>https://niewmedia.com/news/2610popeye/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610popeye/</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>黒木華主演の4人芝居、映画『日曜のあと』メイキング映像が公開</title>
-      <link>https://niewmedia.com/news/2610nichiyonoato/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610nichiyonoato/</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <title>異常気象やプロ彼女を考える、三浦しをん短編集『南から聞こえる歌』発売</title>
+      <link>https://niewmedia.com/news/2610miurasiwon/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610miurasiwon/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>岸井ゆきの×浅野忠信が描く大人の恋、映画『すべて真夜中の恋人たち』新場面写真が公開</title>
-      <link>https://niewmedia.com/news/2610subemayo/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610subemayo/</guid>
+      <title>松尾スズキら著名人がコメント、映画『トキシック・アベンジャー』イラスト公開</title>
+      <link>https://niewmedia.com/news/2610toxic-avenger/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610toxic-avenger/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>娯楽が制限された世界を描く、演劇集団nohupの舞台『ニューロケミカルハイボール』</title>
+      <link>https://niewmedia.com/news/2610nohup/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610nohup/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>劇団温泉ドラゴン・阪本篤主宰「PLAN’S」の旗揚げ公演、鄭義信の改訂新作『餃子の日』</title>
+      <link>https://niewmedia.com/news/2610plans/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610plans/</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>相葉雅紀主演『4アウト』本編映像を使用、GRe4N BOYZによる主題歌のMV公開</title>
+      <link>https://niewmedia.com/news/2610gre4nboyz-4out/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610gre4nboyz-4out/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>朝ドラ『虎に翼』スピンオフ『山田轟法律事務所』完全版放送、知られざるエピソードも</title>
@@ -76,6 +88,12 @@
       <title>『VIVANT』の悪役がシマエナガ体操。迫田孝也、河内大和、馬場徹が『THE TIME,』出演</title>
       <link>https://niewmedia.com/news/2610thetime-vivant/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610thetime-vivant/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>椎名もたの没後10年プロジェクト、“少女A”の二次創作企画やコラボカフェ開催 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2610siinamota/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610siinamota/</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -127,16 +145,16 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DeerhoofのOAも務めたノイズロックバンドGnawが、初アジアツアーの東阪公演を開催 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2608gnaw/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608gnaw/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <title>チームラボや目［mé］ら参加。文化芸術祭『ARTE TOKYO』が特別企画を発表</title>
+      <link>https://niewmedia.com/news/2610artetokyo/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610artetokyo/</guid>
+      <pubDate>Tue, 27 Oct 2026 20:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>アイナ・ジ・エンド×羊文学が初の対バン、『SOUND CONNECTION』開催 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2606soundconnection/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2606soundconnection/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <title>メインコンテンツまでスキップ</title>
+      <link>https://niewmedia.com/news/#main-content</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <pubDate>Tue, 27 Oct 2026 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>一ノ瀬ワタル主演、Netflix『サンクチュアリ -聖域-』シーズン2制作決定</title>
@@ -155,30 +173,6 @@
       <link>https://niewmedia.com/news/2610jjj/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610jjj/</guid>
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>『ILLUSTRATION 2027』カバーは桃桃子。前作から掲載作家150名を総入れ替え</title>
-      <link>https://niewmedia.com/news/2610illustration/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610illustration/</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>藤原さくらが『ブラッサム』に登場、初の朝ドラで主人公らの人生に深く関わる役柄に</title>
-      <link>https://niewmedia.com/news/2610fujiwarasakura/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610fujiwarasakura/</guid>
-      <pubDate>Thu, 22 Oct 2026 22:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ザ・クロマニヨンズの最新アルバム『Hola! Leopardo』発売決定、全国ツアー開催も</title>
-      <link>https://niewmedia.com/news/2610cromagnons/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610cromagnons/</guid>
-      <pubDate>Thu, 22 Oct 2026 14:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HANAがANAの新プロモーションに登場、Vlog風の動画＆インタビュー公開</title>
-      <link>https://niewmedia.com/news/2610hana-ana/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610hana-ana/</guid>
-      <pubDate>Thu, 22 Oct 2026 12:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
