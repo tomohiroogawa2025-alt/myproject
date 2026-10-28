@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:26:53 +0000</lastBuildDate>
+    <item>
+      <title>Web特集｜ニュージーランドのあそびかた 藤原さくら×優河 「映画ロケ地巡りのふたり旅とハプニング」</title>
+      <link>https://transit.jp/article/new-zealand/nz_fujiwarasakura_yuga</link>
+      <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_fujiwarasakura_yuga</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>News｜特別展「沙流川に生きる」 アイヌの手仕事と子孫の言葉を工芸品や写真からたどる</title>
       <link>https://transit.jp/article/osaka/news_ainu-sarunkur</link>
@@ -17,12 +23,6 @@
       <link>https://transit.jp/article/india/tejubehan_dreams</link>
       <guid isPermaLink="true">https://transit.jp/article/india/tejubehan_dreams</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜「テート美術館 ターナー展」 光の画家が描き出す 自然の圧倒的なちから</title>
-      <link>https://transit.jp/article/tokyo/news_turner-2026</link>
-      <guid isPermaLink="true">https://transit.jp/article/tokyo/news_turner-2026</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
