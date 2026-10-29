@@ -5,7 +5,7 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:55:27 +0000</lastBuildDate>
     <item>
       <title>奥山由之が香川で350点超を展示、公立美術館初の個展で15年以上の軌跡を辿る</title>
       <link>https://niewmedia.com/news/2610okuyamayoshiyuki/</link>
@@ -13,10 +13,16 @@
       <pubDate>Sat, 07 Aug 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>小谷美紗子デビュー30周年にトリオ再集結、新曲“蘇生”リリース＆ライブ開催決定</title>
-      <link>https://niewmedia.com/news/2610odanimisako/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610odanimisako/</guid>
-      <pubDate>Mon, 29 Mar 2027 00:00:00 +0000</pubDate>
+      <title>東伊豆の野外フェス『Rainbow Disco Club 2027』第1弾にジェフ・ミルズ、Ben UFOら</title>
+      <link>https://niewmedia.com/news/2610rdc/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610rdc/</guid>
+      <pubDate>Fri, 16 Apr 2027 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>メインコンテンツまでスキップ</title>
+      <link>https://niewmedia.com/news/#main-content</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <pubDate>Fri, 16 Apr 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ビームス50周年のフィナーレ『BEAMS PARK』開催、Koji Yamaguchiがアートワーク担当</title>
@@ -31,15 +37,21 @@
       <pubDate>Fri, 18 Dec 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>システム個人『ループ・ゴールドバーグ・シティ』、ある日の東京を何度も巡る群像劇</title>
+      <link>https://niewmedia.com/news/2610systemkojin/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610systemkojin/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>カワモ倶楽部の実録演劇『佐藤と加藤』、漫画家と一般人の共同生活の破綻と決別を描く</title>
+      <link>https://niewmedia.com/news/2610satokato/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610satokato/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>大阪の都市型フェス『UMEKITA SOUND BAZAAR』初開催、中村佳穂ら出演</title>
       <link>https://niewmedia.com/news/2610umekita-sound-bazaar/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610umekita-sound-bazaar/</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>STUTS、すみれら登壇。MUTEK.JPのトークプログラム『しごとの話をしよう。』開催</title>
-      <link>https://niewmedia.com/news/2610mutekprolab/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610mutekprolab/</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -79,10 +91,10 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>朝ドラ『虎に翼』スピンオフ『山田轟法律事務所』完全版放送、知られざるエピソードも</title>
-      <link>https://niewmedia.com/news/2610yamadatodoroki/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610yamadatodoroki/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <title>京都『ボロフェスタ』第1弾でOGRE YOU ASSHOLE、Trooper Salute、KOTORIら26組発表 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2607borofesuta/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2607borofesuta/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>『VIVANT』の悪役がシマエナガ体操。迫田孝也、河内大和、馬場徹が『THE TIME,』出演</title>
@@ -133,46 +145,28 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>劇団人間嫌いの舞台『Mサイズ版「これが私のリアルサイズ」』、約2年ぶりの劇場公演 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2610ningengirai/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610ningengirai/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <title>HANAの新曲“Slidin”がリリース決定、MAHINA手がけるジャケット＆ソロアー写を公開</title>
+      <link>https://niewmedia.com/news/2610hana-slidin/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610hana-slidin/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>劇団アンパサンドが初の3都市ツアーで新作『立ち止まるには近すぎる』上演。片桐はいりら出演 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2607anpasando/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2607anpasando/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <title>ノートルダム大聖堂の火災、チョルノービリ原発事故に迫る。ナショジオで日本初放送</title>
+      <link>https://niewmedia.com/news/2610natgeo/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610natgeo/</guid>
+      <pubDate>Wed, 28 Oct 2026 15:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>-0001.11.30 『狗子図』の展示も、円山応挙の約20年ぶり大回顧展『リアルの先へ 空間革命』</title>
+      <link>https://niewmedia.com/news/2610okyo/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610okyo/</guid>
+      <pubDate>Wed, 28 Oct 2026 13:46:00 +0000</pubDate>
     </item>
     <item>
       <title>チームラボや目［mé］ら参加。文化芸術祭『ARTE TOKYO』が特別企画を発表</title>
       <link>https://niewmedia.com/news/2610artetokyo/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610artetokyo/</guid>
       <pubDate>Tue, 27 Oct 2026 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>メインコンテンツまでスキップ</title>
-      <link>https://niewmedia.com/news/#main-content</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
-      <pubDate>Tue, 27 Oct 2026 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>一ノ瀬ワタル主演、Netflix『サンクチュアリ -聖域-』シーズン2制作決定</title>
-      <link>https://niewmedia.com/news/2610sanctuary/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610sanctuary/</guid>
-      <pubDate>Mon, 26 Oct 2026 15:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>マイルス・デイビスの名盤2作がひとつに。当時のセトリ順で聴くと何が変わる？</title>
-      <link>https://niewmedia.com/news/2610milesdavis_nclm/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610milesdavis_nclm/</guid>
-      <pubDate>Fri, 23 Oct 2026 17:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JJJ『the light tour live film』、地元川崎の2会場で上映決定</title>
-      <link>https://niewmedia.com/news/2610jjj/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2610jjj/</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
