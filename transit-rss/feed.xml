@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:15:47 +0000</lastBuildDate>
+    <item>
+      <title>web特集｜世界の怪異を旅する 怪談研究家・吉田悠軌に訊いた「実話怪談」の世界。 台湾では“ふつうの日本人”が神になる?</title>
+      <link>https://transit.jp/article/taiwan/world-mystery_yoshidayuki</link>
+      <guid isPermaLink="true">https://transit.jp/article/taiwan/world-mystery_yoshidayuki</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>特集｜世界の怪異を旅する フォークホラー映画5作品！ 映画ライター・ISOが選ぶ、世界の土着の恐怖</title>
       <link>https://transit.jp/article/theme/folkhorror_movies</link>
@@ -17,12 +23,6 @@
       <link>https://transit.jp/article/new-zealand/nz_fujiwarasakura_yuga</link>
       <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_fujiwarasakura_yuga</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜特別展「沙流川に生きる」 アイヌの手仕事と子孫の言葉を工芸品や写真からたどる</title>
-      <link>https://transit.jp/article/osaka/news_ainu-sarunkur</link>
-      <guid isPermaLink="true">https://transit.jp/article/osaka/news_ainu-sarunkur</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>News｜テジュベハンが描き、TARA BOOKSで印刷製本した、奇跡の旅路の絵本『ゆめ』発売。展示、トークイベントやワークショップも！</title>
