@@ -5,90 +5,132 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:59:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:27:27 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ferragamoがアートとの歩みをたどる特別展示「FERRAGAMO PRESENTS ART AND FASHION IN TOKYO」を東京で開催</title>
+      <link>https://qui.tokyo/news/2611-ferragamo-ferragamo-presents-art-and-fashion-in-tokyo</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-ferragamo-ferragamo-presents-art-and-fashion-in-tokyo</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection NAKAGAMI 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/nakagami-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/nakagami-2027ss-collection</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection någonstans 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/nagonstans-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/nagonstans-2027ss-collection</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MIKIOSAKABE 2027SS COLLECTION RUNWAY</title>
+      <link>https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MASSES 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/masses-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/masses-2026aw-collection</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection emary 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/emary-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/emary-2027ss-collection</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivienne Westwood、オーブボタンコレクション初のペンダントウォッチを発売</title>
+      <link>https://qui.tokyo/news/261104-vivienne-westwood</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/261104-vivienne-westwood</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>D’ORSAY、愛の書簡から着想を得たホリデーコレクションと限定キャンドルを発売</title>
+      <link>https://qui.tokyo/news/261104-dorsay</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/261104-dorsay</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thom BrowneとGlobe-Trotterがコラボレーション、伝統的なクラフツマンシップを融合したラゲージコレクションが登場</title>
+      <link>https://qui.tokyo/news/2611-thom-browne-globe-trotter</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-thom-browne-globe-trotter</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>渋谷PARCOが7周年記念企画「BORDER/SHIBUYA」を11/20（金）より開催、限定アイテムや音楽・アートイベントを展開</title>
+      <link>https://qui.tokyo/news/2611-shibuya-parco-7th-anniversary</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-shibuya-parco-7th-anniversary</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HOKAが駅伝をテーマにしたカプセルコレクション「虎視眈々」を11/5（木）発売、全国4会場でランニングイベントも開催</title>
+      <link>https://qui.tokyo/news/2611-hoka-koshi-tan-tan</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-hoka-koshi-tan-tan</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>groundsから新作ソール「MANUS」が登場、巨大な手が足元を支える、優しさと不穏さが交差する新作シューズ</title>
+      <link>https://qui.tokyo/news/2611-grounds-manus</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-grounds-manus</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TOD’Sが伊勢丹新宿店で2026-27年秋冬メンズコレクションのポップアップを開催、限定・先行アイテムを展開</title>
+      <link>https://qui.tokyo/feature/2610-tods-2627aw-isetan-popup</link>
+      <guid isPermaLink="true">https://qui.tokyo/feature/2610-tods-2627aw-isetan-popup</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「森万里子：燦燦（さんさん）」森美術館で開催、24年ぶりの国内大規模個展で約40点を紹介</title>
       <link>https://qui.tokyo/news/2610-morimariko-sansan</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-morimariko-sansan</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection NAKAGAMI 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/nakagami-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/nakagami-2027ss-collection</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection någonstans 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/nagonstans-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/nagonstans-2027ss-collection</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection MIKIOSAKABE 2027SS COLLECTION RUNWAY</title>
-      <link>https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/mikiosakabe-2027ss-collection-runway</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection MASSES 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/masses-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/masses-2026aw-collection</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collection emary 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/emary-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/emary-2027ss-collection</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KIKO KOSTADINOVよりASICS Tabi BootsとPatcharavipaとのコラボジュエリーなど限定アイテムが10/31（土）より発売</title>
-      <link>https://qui.tokyo/news/kiko-kos2610-tadinov-asics-tabi-boots-patcharavipa</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/kiko-kos2610-tadinov-asics-tabi-boots-patcharavipa</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>資生堂ギャラリーで「今はいつのことか―小村雪岱と玉山拓郎」開催、約100年を隔てた2人の表現が交わる Nov 2, 2026</title>
@@ -109,9 +151,15 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>YOKE × REPRODUCTION OF FOUNDが別注モデル「ジャーマントレーナー」を発売</title>
+      <title>YOKE × REPRODUCTION OF FOUNDが別注モデル「ジャーマントレーナー」を発売 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-yoke-x-reproduction-of-found</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-yoke-x-reproduction-of-found</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KIKO KOSTADINOVよりASICS Tabi BootsとPatcharavipaとのコラボジュエリーなど限定アイテムが10/31（土）より発売 Nov 2, 2026</title>
+      <link>https://qui.tokyo/news/2610-tadinov-asics-tabi-boots-patcharavipa</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2610-tadinov-asics-tabi-boots-patcharavipa</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -127,13 +175,13 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>丸山サヤカの新作写真集『SAKURA』が11月に刊行、銀座 蔦屋書店で記念フェアを開催</title>
+      <title>丸山サヤカの新作写真集『SAKURA』が11月に刊行、銀座 蔦屋書店で記念フェアを開催 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-sakura-konomad</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-sakura-konomad</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Protocol Index × MASTERMIND WORLDがNUBIAN限定のコラボレーションコレクションを10/30（金）より発売</title>
+      <title>Protocol Index × MASTERMIND WORLDがNUBIAN限定のコラボレーションコレクションを10/30（金）より発売 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-protocol-index-x-mastermind-world</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-protocol-index-x-mastermind-world</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
@@ -145,97 +193,55 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>「マツモト建築芸術祭 2026 ADVANCE」松本市内4エリア・19会場で開催、18組のアーティストが参加 Nov 2, 2026</title>
+      <title>「マツモト建築芸術祭 2026 ADVANCE」松本市内3エリア・19会場で開催、18組のアーティストが参加 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-maaf</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-maaf</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>KENZOがプレ・スプリング コレクション「KENZO Work &amp; Play」のポップアップを10/30（金）より六本木ヒルズで開催</title>
+      <title>KENZOがプレ・スプリング コレクション「KENZO Work &amp; Play」のポップアップを10/30（金）より六本木ヒルズで開催 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-kenzo-kenzo-work-play</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-kenzo-kenzo-work-play</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AMBUSH®とHanesがコラボレーションコレクションを発売</title>
+      <title>AMBUSH®とHanesがコラボレーションコレクションを発売 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-ambush-hanes</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-ambush-hanes</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>4℃ HOMME+とTAAKKがコラボカプセルコレクションを発売、阪急うめだ本店にて期間限定のポップアップショップを開催中</title>
+      <title>4℃ HOMME+とTAAKKがコラボカプセルコレクションを発売、阪急うめだ本店にて期間限定のポップアップショップを開催中 Nov 2, 2026</title>
       <link>https://qui.tokyo/news/2610-4c-homme-taakk</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-4c-homme-taakk</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ReStyle30周年｜お手本に倣うのではなく自分らしさを映すウェディングドレスを</title>
+      <title>ReStyle30周年｜お手本に倣うのではなく自分らしさを映すウェディングドレスを Nov 2, 2026</title>
       <link>https://qui.tokyo/fashion/2610-restyle30th-weddingdress</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/2610-restyle30th-weddingdress</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>いま観るべき映画｜2026年11月 Nov 1, 2026</title>
+      <title>いま観るべき映画｜2026年11月 Nov 01, 2026</title>
       <link>https://qui.tokyo/film/202611movie</link>
       <guid isPermaLink="true">https://qui.tokyo/film/202611movie</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>いま行くべきアートイベント｜2026年11月 Nov 1, 2026</title>
+      <title>いま行くべきアートイベント｜2026年11月 Nov 01, 2026</title>
       <link>https://qui.tokyo/art-design/art_2611</link>
       <guid isPermaLink="true">https://qui.tokyo/art-design/art_2611</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>心斎橋PARCOが周年企画「心斎橋PARCO 6th ANNIVERSARY」を開催 会期中は、クリエイティブプロダクションZaiyenが手がけるオープニングパーティーを皮切りに、ストリートメディアDroptokyoとのコラボレーションイベント「BLACK MARKET」や、FM802</title>
-      <link>https://qui.tokyo/news/2610-shinsaibashi-parco-6th-anniversary</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-shinsaibashi-parco-6th-anniversary</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「SHIBUYA PARCO ART DAYS」が11/4（水）より開催、アーティストデュオMESの展覧会やパフォーミングアーツなど多彩な企画を展開 Oct 30, 2026</title>
-      <link>https://qui.tokyo/news/2610-shibuya-parco-art-days</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-shibuya-parco-art-days</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PLAYGROUNDが10/31（土）にリニューアルオープン、SillageやFreshServiceとのコラボアイテムを発売 PLAYGROUNDは、ディレクターの草賀雄介が独自の視点でセレクトしたスニーカーを提案するショップ。2018年6月にオープンし、新品からユーズド、レギュラー、ヴィンテージまで幅広いスニーカーを取り扱</title>
-      <link>https://qui.tokyo/news/2610-playground-renewal</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-playground-renewal</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>mukcyenがMIDWEST NAGOYAで2026年秋冬コレクションのポップアップを10/31（土）より開催 Oct 30, 2026</title>
-      <link>https://qui.tokyo/news/2610-mukcyen-midwest-nagoya</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-mukcyen-midwest-nagoya</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>galbeからホリデーシーズンを彩る新作ジュエリーが登場、「fer forgé collection」より全6型を発売 ヨーロッパの邸宅を彩る美しい鉄格子から着想を得た「fer forgé collection」。アイアンワーク特有のしなやかな曲線や、規則性と装飾性のあいだを行き交うフォルムをジュエリーへと落とし込んで</title>
-      <link>https://qui.tokyo/news/2610-galbe-fer-forge-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-galbe-fer-forge-collection</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FRITZ HANSENとTechnicsがコラボレーション、バーガンディカラーの限定ランプとターンテーブルを発売 Oct 30, 2026</title>
+      <title>FRITZ HANSENとTechnicsがコラボレーション、バーガンディカラーの限定ランプとターンテーブルを発売 今回登場するのは、＜FRITZ HANSEN＞のランプ「KAISER idell™ Luxus 6631-T」と、＜Technics＞のターンテーブル「SL-40CBTFH」。両モデルともに深みのある</title>
       <link>https://qui.tokyo/news/2610-fritz-hansen-technics-collaboration</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-fritz-hansen-technics-collaboration</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>大野陽生の個展「漁村/象徴」がタカ・イシイギャラリー 前橋で開催、新作を含む約40点の立体作品を発表 Oct 30, 2026</title>
-      <link>https://qui.tokyo/news/2610-fishing-village-symbol-haruki-ohno</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-fishing-village-symbol-haruki-ohno</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chika KisadaがMIDWEST TOKYOでポップアップを10/31（土）より開催、ワコールとのコラボアイテムや限定バッグを展開 Oct 30, 2026</title>
-      <link>https://qui.tokyo/news/2610-chika-kisada</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2610-chika-kisada</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ambientecが「BEYOND CONSUMPTION-消費の先へ-」を開催、製品の長寿命性と再整備への取り組みを紹介 Oct 30, 2026</title>
+      <title>Ambientecが「BEYOND CONSUMPTION-消費の先へ-」を開催、製品の長寿命性と再整備への取り組みを紹介 「BEYOND CONSUMPTION」は、製品を短期的な消費のサイクルから解放し、使い手とつくり手の関係を長期的に築くことを目指す思想およびプロジェクト。その実践に向けて、Ambientecは「Lo</title>
       <link>https://qui.tokyo/news/2610-ambientec-beyond-consumption</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2610-ambientec-beyond-consumption</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
@@ -299,12 +305,6 @@
       <link>https://qui.tokyo/fashion/2610-dries-van-noten-snap</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/2610-dries-van-noten-snap</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>生地と色とパターンと極限まで向き合う｜sssteinによるBARNEYS NEW YORKのエクスクルーシヴ Oct 22, 2026</title>
-      <link>https://qui.tokyo/fashion/ssstein-barneys-new-york</link>
-      <guid isPermaLink="true">https://qui.tokyo/fashion/ssstein-barneys-new-york</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
