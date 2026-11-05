@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:33:10 +0000</lastBuildDate>
+    <item>
+      <title>“風の谷”の原風景広がる、ジョージアのコーカサスの山々をトレッキング。</title>
+      <link>https://transit.jp/article/georgia/georgia_trekking</link>
+      <guid isPermaLink="true">https://transit.jp/article/georgia/georgia_trekking</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Web特集｜ニュージーランドのあそびかた サーフィンからトレイルランニングまで北島と南島のアウトドア旅 by 田中嵐洋（『SKI CLUB』プロデューサー）</title>
       <link>https://transit.jp/article/new-zealand/nz_tanakaranyo</link>
@@ -25,16 +31,10 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>web特集｜世界の怪異を旅する 怪談研究家・吉田悠軌に訊いた「実話怪談」の世界。 台湾では“ふつうの日本人”が神になる?</title>
+      <title>Web特集｜世界の怪異を旅する 怪談研究家・吉田悠軌に訊いた「実話怪談」の世界。 台湾では“ふつうの日本人”が神になる?</title>
       <link>https://transit.jp/article/taiwan/world-mystery_yoshidayuki</link>
       <guid isPermaLink="true">https://transit.jp/article/taiwan/world-mystery_yoshidayuki</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web特集｜ニュージーランドのあそびかた 藤原さくら×優河 「映画ロケ地巡りのふたり旅とハプニング」</title>
-      <link>https://transit.jp/article/new-zealand/nz_fujiwarasakura_yuga</link>
-      <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_fujiwarasakura_yuga</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
