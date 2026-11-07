@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:59:32 +0000</lastBuildDate>
+    <item>
+      <title>Web特集｜平和への旅 沖縄戦の記憶を歩く。 後編｜宜野湾、普天間、読谷 by のせなな（文筆家）</title>
+      <link>https://transit.jp/article/okinawa/peace_nosenana_2</link>
+      <guid isPermaLink="true">https://transit.jp/article/okinawa/peace_nosenana_2</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Web特集｜平和への旅 沖縄戦の記憶を歩く。 前編｜糸満、南城 by のせなな（文筆家）</title>
       <link>https://transit.jp/article/okinawa/peace_nosenana_1</link>
@@ -29,12 +35,6 @@
       <link>https://transit.jp/article/new-zealand/nz_tanakaranyo</link>
       <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_tanakaranyo</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web特集｜ニュージーランドのあそびかた 「0歳の子どもとキャンパーバンでロードトリップ」後編｜旅の6日目から帰国まで by 西優紀美</title>
-      <link>https://transit.jp/article/new-zealand/nz_baby_nishiyukimi_2</link>
-      <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_baby_nishiyukimi_2</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Web特集｜ニュージーランドのあそびかた 「0歳の子どもとキャンパーバンでロードトリップ」前編｜準備から旅の5日目 by 西優紀美</title>
