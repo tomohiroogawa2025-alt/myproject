@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:58:32 +0000</lastBuildDate>
+    <item>
+      <title>News｜「薬草大学NORM 世界薬草博2026」 見て・味わって・体験する 薬草を楽しみつくす2日間</title>
+      <link>https://transit.jp/article/tokyo/news_world-herbal-expo-2026</link>
+      <guid isPermaLink="true">https://transit.jp/article/tokyo/news_world-herbal-expo-2026</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>News｜映画『アマゾン、精霊が宿る川』 川にも生きる権利がある？開発に立ち向かうペルーの先住民と精霊たちの物語</title>
       <link>https://transit.jp/article/peru/news_karuara_movie</link>
@@ -25,12 +31,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>News｜「オルセー美術館所蔵いまを生きる歓び」 ミレー、ファン・ゴッホ、ゴーガンまで。19世紀の芸術家が描く愛おしい瞬間</title>
-      <link>https://transit.jp/article/france/orsay_exhibition</link>
-      <guid isPermaLink="true">https://transit.jp/article/france/orsay_exhibition</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>“風の谷”の原風景広がる、ジョージアのコーカサスの山々をトレッキング。</title>
       <link>https://transit.jp/article/georgia/georgia_trekking</link>
       <guid isPermaLink="true">https://transit.jp/article/georgia/georgia_trekking</guid>
@@ -41,6 +41,12 @@
       <link>https://transit.jp/article/new-zealand/nz_tanakaranyo</link>
       <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_tanakaranyo</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web特集｜ニュージーランドのあそびかた 「0歳の子どもとキャンパーバンでロードトリップ」後編｜旅の6日目から帰国まで by 西優紀美</title>
+      <link>https://transit.jp/article/new-zealand/nz_baby_nishiyukimi_2</link>
+      <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_baby_nishiyukimi_2</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Web特集｜ニュージーランドのあそびかた 「0歳の子どもとキャンパーバンでロードトリップ」前編｜準備から旅の5日目 by 西優紀美</title>
