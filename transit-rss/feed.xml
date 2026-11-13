@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:40:35 +0000</lastBuildDate>
+    <item>
+      <title>Web特集｜平和への旅 映画『カンダハール』モフセン・マフマルバフ監督インタビュー。アフガニスタン、今、再び”世界が忘れた場所”へ。</title>
+      <link>https://transit.jp/article/afghanistan/peace_kandahar</link>
+      <guid isPermaLink="true">https://transit.jp/article/afghanistan/peace_kandahar</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>News｜「薬草大学NORM 世界薬草博2026」 見て・味わって・体験する 薬草を楽しみつくす2日間</title>
       <link>https://transit.jp/article/tokyo/news_world-herbal-expo-2026</link>
@@ -35,12 +41,6 @@
       <link>https://transit.jp/article/new-zealand/nz_tanakaranyo</link>
       <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_tanakaranyo</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web特集｜ニュージーランドのあそびかた 「0歳の子どもとキャンパーバンでロードトリップ」前編｜準備から旅の5日目 by 西優紀美</title>
-      <link>https://transit.jp/article/new-zealand/nz_baby_nishiyukimi_1</link>
-      <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_baby_nishiyukimi_1</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
