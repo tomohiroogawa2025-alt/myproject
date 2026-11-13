@@ -5,7 +5,19 @@
     <link>https://niewmedia.com/news/</link>
     <description>NiEWのNEWS新着記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:50:57 +0000</lastBuildDate>
+    <item>
+      <title>醸造と水運の町が舞台に、国際芸術祭『あいち2028』会期と会場が決定</title>
+      <link>https://niewmedia.com/news/2611aichitriennale/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2611aichitriennale/</guid>
+      <pubDate>Thu, 16 Sep 2027 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>メインコンテンツまでスキップ</title>
+      <link>https://niewmedia.com/news/#main-content</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
+      <pubDate>Thu, 16 Sep 2027 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>蜷川実花 with EiMの第二章へ、大規模展覧会『望む世界、そして消えるもの』開催</title>
       <link>https://niewmedia.com/news/2611ninagawaeim/</link>
@@ -17,12 +29,6 @@
       <link>https://niewmedia.com/news/2611guitar-jamboree/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2611guitar-jamboree/</guid>
       <pubDate>Sat, 06 Mar 2027 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>アリ・アスター×ロバート・パティンソン、『プライムタイム』予告編＆ポスター公開</title>
-      <link>https://niewmedia.com/news/2611primetime/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2611primetime/</guid>
-      <pubDate>Fri, 22 Jan 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>爽快感だけでは終わらない、渡辺謙主演のNHK正月時代劇『復讐の追憶』制作開始</title>
@@ -55,22 +61,10 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>メインコンテンツまでスキップ</title>
-      <link>https://niewmedia.com/news/#main-content</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/#main-content</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>オカモトレイジ、安野澄ら追加。ファッションの循環を体験するWWDJAPAN主催フリマ開催</title>
       <link>https://niewmedia.com/news/2611reuse-market/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2611reuse-market/</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>秘蔵メイキング映像も！ 『南極料理人 4Kリマスター』入場者特典＆グッズ情報が解禁</title>
-      <link>https://niewmedia.com/news/2611nankyoku-ryori/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2611nankyoku-ryori/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ジュネ監督が仕事部屋を紹介、『アメリ』25周年上映で35mmカットフィルム配布も</title>
@@ -79,9 +73,21 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>松尾スズキら著名人がコメント、映画『トキシック・アベンジャー』イラスト公開 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2610toxic-avenger/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610toxic-avenger/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>岸井ゆきの×浅野忠信が描く大人の恋、映画『すべて真夜中の恋人たち』新場面写真が公開</title>
       <link>https://niewmedia.com/news/2610subemayo/</link>
       <guid isPermaLink="true">https://niewmedia.com/news/2610subemayo/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>娯楽が制限された世界を描く、演劇集団nohupの舞台『ニューロケミカルハイボール』 NiEW編集部</title>
+      <link>https://niewmedia.com/news/2610nohup/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2610nohup/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -127,16 +133,10 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>カレーカレーグループの舞台『また会えるよ』、慣れた土地で道に迷う女性が軸の群像劇 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2611currycurrygroup/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2611currycurrygroup/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>庭劇団ペニノ8年ぶりの新作『埋火』、視覚障害のある俳優らとともに創作した時代劇 NiEW編集部</title>
-      <link>https://niewmedia.com/news/2608niwagekidan/</link>
-      <guid isPermaLink="true">https://niewmedia.com/news/2608niwagekidan/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>ネタバレが引き起こす大事件、宮藤官九郎×高橋文哉×松田龍平『真犯人』公開決定</title>
+      <link>https://niewmedia.com/news/2611shinhannin/</link>
+      <guid isPermaLink="true">https://niewmedia.com/news/2611shinhannin/</guid>
+      <pubDate>Thu, 12 Nov 2026 13:33:00 +0000</pubDate>
     </item>
     <item>
       <title>『世界遺産』×『地球の歩き方』、体験型展覧会『世界遺産の歩き方展』が天王洲で</title>
