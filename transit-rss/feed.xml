@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:29:33 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜「共時的星叢」展 星を結ぶように近代台湾のアートをめぐる</title>
+      <link>https://transit.jp/article/taiwan/editorspick_synchronic-constellations</link>
+      <guid isPermaLink="true">https://transit.jp/article/taiwan/editorspick_synchronic-constellations</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Web特集｜平和への旅 映画『カンダハール』モフセン・マフマルバフ監督インタビュー。アフガニスタン、今、再び”世界が忘れた場所”へ。</title>
       <link>https://transit.jp/article/afghanistan/peace_kandahar</link>
@@ -23,24 +29,6 @@
       <link>https://transit.jp/article/theme/news_refugee-film-festival-2026</link>
       <guid isPermaLink="true">https://transit.jp/article/theme/news_refugee-film-festival-2026</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜映画『アマゾン、精霊が宿る川』 川にも生きる権利がある？開発に立ち向かうペルーの先住民と精霊たちの物語</title>
-      <link>https://transit.jp/article/peru/news_karuara_movie</link>
-      <guid isPermaLink="true">https://transit.jp/article/peru/news_karuara_movie</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web特集｜平和への旅 沖縄戦の記憶を歩く。 前編｜糸満、南城 by のせなな（文筆家）</title>
-      <link>https://transit.jp/article/okinawa/peace_nosenana_1</link>
-      <guid isPermaLink="true">https://transit.jp/article/okinawa/peace_nosenana_1</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web特集｜ニュージーランドのあそびかた サーフィンからトレイルランニングまで北島と南島のアウトドア旅 by 田中嵐洋（『SKI CLUB』プロデューサー）</title>
-      <link>https://transit.jp/article/new-zealand/nz_tanakaranyo</link>
-      <guid isPermaLink="true">https://transit.jp/article/new-zealand/nz_tanakaranyo</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
