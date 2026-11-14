@@ -5,24 +5,90 @@
     <link>https://qui.tokyo/</link>
     <description>QUIの最新記事から生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:08:19 +0000</lastBuildDate>
     <item>
       <title>PLACE</title>
       <link>https://qui.tokyo/shop</link>
       <guid isPermaLink="true">https://qui.tokyo/shop</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>QUI CREATIVE</title>
       <link>https://qui.tokyo/quicreative/</link>
       <guid isPermaLink="true">https://qui.tokyo/quicreative/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>広告、タイアップに関するお問い合わせ</title>
       <link>https://qui.tokyo/production-request</link>
       <guid isPermaLink="true">https://qui.tokyo/production-request</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ルミネシンガポールでEMUと前田麦による二人展「Side by Side — We All Belong」が1/22（金）より開催</title>
+      <link>https://qui.tokyo/news/2611-side-by-side-we-all-belong</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-side-by-side-we-all-belong</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新潟の産地とニットアーティスト・蓮沼千紘によるビジュアルブック『AFTER THE RUNWAY』が発行</title>
+      <link>https://qui.tokyo/news/2611-after-the-runway</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-after-the-runway</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MODELS</title>
+      <link>https://qui.tokyo/models</link>
+      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREATOR</title>
+      <link>https://qui.tokyo/creator</link>
+      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection paratrait 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/paratrait-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/paratrait-2027ss-collection</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MASSES 2026AW COLLECTION</title>
+      <link>https://qui.tokyo/collection/masses-2026aw-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/masses-2026aw-collection</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection MAISON D’PULSE 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/maison-dpulse-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/maison-dpulse-2027ss-collection</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection emary 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/emary-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/emary-2027ss-collection</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collection BASE MARK 2027SS COLLECTION</title>
+      <link>https://qui.tokyo/collection/base-mark-2027ss-collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection/base-mark-2027ss-collection</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COLLECTION</title>
+      <link>https://qui.tokyo/collection</link>
+      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAND</title>
+      <link>https://qui.tokyo/brand</link>
+      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PRADA BEAUTYが「ポストオフィス」をテーマにしたホリデーイベントを表参道で11/27（金）より開催</title>
@@ -37,91 +103,73 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MODELS</title>
-      <link>https://qui.tokyo/models</link>
-      <guid isPermaLink="true">https://qui.tokyo/models</guid>
+      <title>STONE ISLANDがDOVER STREET MARKET限定カプセルコレクションを11/12（木）発売</title>
+      <link>https://qui.tokyo/news/2611-stone-island-dover-street-market</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-stone-island-dover-street-market</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CREATOR</title>
-      <link>https://qui.tokyo/creator</link>
-      <guid isPermaLink="true">https://qui.tokyo/creator</guid>
+      <title>Salomonが東北地方初の直営店「サロモンストア 仙台パルコ」を11/20（金）にオープン</title>
+      <link>https://qui.tokyo/news/2611-salomon-sendai</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-salomon-sendai</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection paratrait 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/paratrait-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/paratrait-2027ss-collection</guid>
+      <title>Marshall、独立系ライブハウスを支援する「KEEP LIVE MUSIC ALIVE」11月公演のスケジュールを発表</title>
+      <link>https://qui.tokyo/news/2611-marshall-keep-live-music-alive</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-marshall-keep-live-music-alive</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection MASSES 2026AW COLLECTION</title>
-      <link>https://qui.tokyo/collection/masses-2026aw-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/masses-2026aw-collection</guid>
+      <title>Bufferがブランド初のシャツとフリースを含む「Delivery 18」を11/14（土）発売</title>
+      <link>https://qui.tokyo/news/2611-buffer-delivery-18</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-buffer-delivery-18</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection MAISON D’PULSE 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/maison-dpulse-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/maison-dpulse-2027ss-collection</guid>
+      <title>adidas OriginalsとRick Owensが再びコラボレーション、Springbladeソールを再構築した新作シューズを11/17（火）発売</title>
+      <link>https://qui.tokyo/news/2611-adidas-originals-rick-owens</link>
+      <guid isPermaLink="true">https://qui.tokyo/news/2611-adidas-originals-rick-owens</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection emary 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/emary-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/emary-2027ss-collection</guid>
+      <title>Ann Demeulemeesterのショー会場スナップ | おしゃれ賢者の着こなし術</title>
+      <link>https://qui.tokyo/fashion/2610-ann-demeulemeester-snap</link>
+      <guid isPermaLink="true">https://qui.tokyo/fashion/2610-ann-demeulemeester-snap</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Collection BASE MARK 2027SS COLLECTION</title>
-      <link>https://qui.tokyo/collection/base-mark-2027ss-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection/base-mark-2027ss-collection</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COLLECTION</title>
-      <link>https://qui.tokyo/collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/collection</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRAND</title>
-      <link>https://qui.tokyo/brand</link>
-      <guid isPermaLink="true">https://qui.tokyo/brand</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>フリマイベント「THE THRIFT」がBREATH BY DELTAで11/14（土）から開催、200点以上のアイテムが集結</title>
+      <title>フリマイベント「THE THRIFT」がBREATH BY DELTAで11/14（土）から開催、200点以上のアイテムが集結 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/261112-the-thrift-breath-by-delta</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261112-the-thrift-breath-by-delta</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Flamingo Estateから6種類の香りを楽しめる2つのミニキャンドルセットが登場</title>
+      <title>Flamingo Estateから6種類の香りを楽しめる2つのミニキャンドルセットが登場 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/261112-flamingo-estate</link>
       <guid isPermaLink="true">https://qui.tokyo/news/261112-flamingo-estate</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>VEJAとMarimekkoがコラボレーション、ポップコーンを意味する「Popkorni」柄のスニーカー2モデルを11/12（木）発売 Nov 12, 2026</title>
+      <title>VEJAとMarimekkoがコラボレーション、ポップコーンを意味する「Popkorni」柄のスニーカー2モデルを11/12（木）発売 今回のコラボレーションでは、＜Marimekko＞が展開するプリントの中から、フィンランド語で「ポップコーン」を意味する「Popkorni（ポップコルニ）」を採用。フィンランド出身のアーティスト、アン</title>
       <link>https://qui.tokyo/news/26110veja-marimekko</link>
       <guid isPermaLink="true">https://qui.tokyo/news/26110veja-marimekko</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vansが渋谷PARCOに常設店を11/20（金）オープン、OTW by VansやVans Premiumなどを展開</title>
+      <title>Vansが渋谷PARCOに常設店を11/20（金）オープン、OTW by VansやVans Premiumなどを展開 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/2611-vans-shibuya-parco-newopen</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-vans-shibuya-parco-newopen</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>RIMOWAとMaison Margielaがコラボレーション、経年変化を楽しむ限定トラベルコレクションが登場</title>
+      <title>RIMOWAとMaison Margielaがコラボレーション、経年変化を楽しむ限定トラベルコレクションが登場 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/2611-rimowa-maison-margiela</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-rimowa-maison-margiela</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MAISON D’PULSEが2027年春夏コレクションを発表、新作ジュエリーが揃う3ブランド合同ポップアップも開催</title>
+      <title>MAISON D’PULSEが2027年春夏コレクションを発表、新作ジュエリーが揃う3ブランド合同ポップアップも開催 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/2611-maison-dpulse-2027ss</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-maison-dpulse-2027ss</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -133,13 +181,13 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HOMME PLISSÉ ISSEY MIYAKE、マティスの『かたつむり』に着想を得た特別展「OPEN STUDIO: The Snail」を銀座で開催</title>
+      <title>HOMME PLISSÉ ISSEY MIYAKE、マティスの『かたつむり』に着想を得た特別展「OPEN STUDIO: The Snail」を銀座で開催 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/2611-homme-plisse-issey-miyake-open-studio-the-snail</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-homme-plisse-issey-miyake-open-studio-the-snail</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>日比谷公園で「Hibiya Art Park 2026 - Timeless Phenomena 確かにありそうなもの -」開催、永山祐子がディレクターを務める Nov 12, 2026</title>
+      <title>日比谷公園で「Hibiya Art Park 2026 - Timeless Phenomena 確かにありそうなもの -」開催、永山祐子がディレクターを務める 本イベントは、東京都が四季を通じて展開する「花と光のムーブメント」の一環として開催されるもの。1903年の開園以来、都市の変化とともに歩んできた日比谷公園を舞台に、花と光、アートを組み合わせた大規模な</title>
       <link>https://qui.tokyo/news/2611-hibiya-art-park-2026</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-hibiya-art-park-2026</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -151,7 +199,7 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>クリス・カルマイヤーの日本初作品展「Furniture Music」が東京・Vacant/Centreで開催</title>
+      <title>クリス・カルマイヤーの日本初作品展「Furniture Music」が東京・Vacant/Centreで開催 Nov 12, 2026</title>
       <link>https://qui.tokyo/news/2611-furniture-music-chris-kallmyer</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-furniture-music-chris-kallmyer</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -175,13 +223,13 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ALAÏAが2027 ウィンタースプリング「Archetypes」コレクションを発表、ドウツェン・クロースらを起用した新キャンペーンも公開 Nov 12, 2026</title>
+      <title>ALAÏAが2027 ウィンタースプリング「Archetypes」コレクションを発表、ドウツェン・クロースらを起用した新キャンペーンも公開 コレクションでは、セカンドスキンのように身体にフィットするニットウェアや、ウエストを強調しながら彫刻的なボリュームを生み出すペプラムラインが登場。さらに、メゾンのシグネチャーであるテーラリングを再解釈</title>
       <link>https://qui.tokyo/news/2611-alaia-2027-winter-spring-archetypes</link>
       <guid isPermaLink="true">https://qui.tokyo/news/2611-alaia-2027-winter-spring-archetypes</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>老舗レコード店のマスターに聞く、「SOUND BURGER」で始めるレコードのある生活</title>
+      <title>老舗レコード店のマスターに聞く、「SOUND BURGER」で始めるレコードのある生活 Nov 12, 2026</title>
       <link>https://qui.tokyo/music/sound-burger-record-life</link>
       <guid isPermaLink="true">https://qui.tokyo/music/sound-burger-record-life</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
@@ -191,48 +239,6 @@
       <link>https://qui.tokyo/fashion/tatras_2026aw_seoulsnap</link>
       <guid isPermaLink="true">https://qui.tokyo/fashion/tatras_2026aw_seoulsnap</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SmythsonとAston Martin Aramco F1® Teamがコラボレーション、ステーショナリーやトラベルアクセサリーを11/11（水）発売 本コレクションは、フォーミュラワン（F1®）の世界に魅了される人々に向けて、特別にデザインされたコレクション。ステーショナリーを中心に、トラベルアクセサリーやデジタルアクセサリーを展開。Aston M</title>
-      <link>https://qui.tokyo/news/2611-smythson-aston-martin-aramco-f1-team</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-smythson-aston-martin-aramco-f1-team</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Louis Poulsenが「パンテラ フロア」を復刻、1970年代のオリジナルカラー5色を展開 Nov 11, 2026</title>
-      <link>https://qui.tokyo/news/2611-louis-poulsen-panthella-the-originals-collection</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-louis-poulsen-panthella-the-originals-collection</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KAPTAIN SUNSHINEがCOVERCHORDとの別注カプセルコレクションを発売、カシミヤリネンを用いた2型が登場 Nov 11, 2026</title>
-      <link>https://qui.tokyo/news/2611-kaptain-sunshine-coverchord</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-kaptain-sunshine-coverchord</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HOKAとMARNIのコラボレーション第2弾が登場、「Clifton 11」をベースにした特別な一足を発売 Nov 11, 2026</title>
-      <link>https://qui.tokyo/news/2611-hoka-marni-clifton-11</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-hoka-marni-clifton-11</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「ディーヴァ展」国立新美術館で開催、マリア・カラスからレディー・ガガまで約60点の衣装を展示 Nov 11, 2026</title>
-      <link>https://qui.tokyo/news/2611-diva-nact</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-diva-nact</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「DIG SHIBUYA 2027」国内外12団体による連携プロジェクトを発表、AIやロボティクスを活用したアートが渋谷に集結 4回目の開催となる「DIG SHIBUYA」は、渋谷の街そのものを実証実験の場「Urban Living Lab」と位置づけ、先端テクノロジーとアートを掛け合わせた表現を展開するイベント。公共空間や街</title>
-      <link>https://qui.tokyo/news/2611-dig-shibuya-2027</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-dig-shibuya-2027</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンドリュー・クランストンのアジア初個展「Birds, beasts and flowers」が京都・両足院で開催中 Nov 11, 2026</title>
-      <link>https://qui.tokyo/news/2611-birds-beas-and-flowers</link>
-      <guid isPermaLink="true">https://qui.tokyo/news/2611-birds-beas-and-flowers</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>早瀬憩 – 演じるたび、新しい自分と出会う</title>
@@ -298,12 +304,6 @@
       <title>023 Oct 01.2026 ALAINPAUL TURNER SANDALS 30</title>
       <link>https://qui.tokyo/today/202610-023</link>
       <guid isPermaLink="true">https://qui.tokyo/today/202610-023</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NANGA × URBAN RESEARCH 「TEXTURE OF FUNCTION」WOMEN</title>
-      <link>https://qui.tokyo/fashion/nanga-urban-research-2026-women</link>
-      <guid isPermaLink="true">https://qui.tokyo/fashion/nanga-urban-research-2026-women</guid>
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
