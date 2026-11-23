@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:53:26 +0000</lastBuildDate>
+    <item>
+      <title>News｜写真展「The Other Shore」 写真家・坂部楽世がコペンハーゲンで撮影した ポートレートから見えてくるもの</title>
+      <link>https://transit.jp/article/denmark/news_exhibition_the-other-shore</link>
+      <guid isPermaLink="true">https://transit.jp/article/denmark/news_exhibition_the-other-shore</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ニュージーランドの動物図鑑 独自の進化を遂げたアオテアロアの生き物たち</title>
       <link>https://transit.jp/article/new-zealand/t73_animals</link>
@@ -19,28 +25,10 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>News｜企画展「ニコライ・アストルップ 創造する庭」 ムンクだけじゃない ノルウェーを代表する もう一人の巨匠の軌跡をたどる</title>
-      <link>https://transit.jp/article/norway/news_nikolai-astrup</link>
-      <guid isPermaLink="true">https://transit.jp/article/norway/news_nikolai-astrup</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>特集｜世界の怪異を旅する 呪物コレクター・田中俊行が語る呪いと祈りにまつわる世界の呪物5つ タイ、ベナン、ハイチ……etc</title>
       <link>https://transit.jp/article/theme/world-mystery_tanakatoshiyuki</link>
       <guid isPermaLink="true">https://transit.jp/article/theme/world-mystery_tanakatoshiyuki</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News｜ナイジェリア映画『マミワタ』 東京外国語大学の上映会&amp;解説で アフリカの信仰世界に触れる</title>
-      <link>https://transit.jp/article/nigeria/news_tufs_mami-wata</link>
-      <guid isPermaLink="true">https://transit.jp/article/nigeria/news_tufs_mami-wata</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>特集｜平和への旅 映画『カンダハール』モフセン・マフマルバフ監督インタビュー。アフガニスタン、今、再び”世界が忘れた場所”へ。</title>
-      <link>https://transit.jp/article/afghanistan/peace_kandahar</link>
-      <guid isPermaLink="true">https://transit.jp/article/afghanistan/peace_kandahar</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
