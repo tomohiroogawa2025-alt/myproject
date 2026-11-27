@@ -5,7 +5,13 @@
     <link>https://transit.jp/</link>
     <description>TRANSIT.jp のトップページから最新記事を定期取得して生成した非公式RSSです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:18:47 +0000</lastBuildDate>
+    <item>
+      <title>Editor&#x27;s Pick｜「台湾巨匠傑作選2026」 日本統治から戦後までを 台湾映画でたどる。 ワン・トン、エドワード・ヤンの作品も</title>
+      <link>https://transit.jp/article/taiwan/editors-pick_taiwan-kyosho2026</link>
+      <guid isPermaLink="true">https://transit.jp/article/taiwan/editors-pick_taiwan-kyosho2026</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ラトビアの首都リーガ旅でしたい10のこと！ 旧市街、中央市場、カルチャースポット…and more！</title>
       <link>https://transit.jp/article/latvia/riga_todo10</link>
@@ -17,12 +23,6 @@
       <link>https://transit.jp/article/denmark/news_exhibition_the-other-shore</link>
       <guid isPermaLink="true">https://transit.jp/article/denmark/news_exhibition_the-other-shore</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ニュージーランドの動物図鑑 独自の進化を遂げたアオテアロアの生き物たち</title>
-      <link>https://transit.jp/article/new-zealand/t73_animals</link>
-      <guid isPermaLink="true">https://transit.jp/article/new-zealand/t73_animals</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
